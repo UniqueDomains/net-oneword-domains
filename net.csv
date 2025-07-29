@@ -112,13 +112,13 @@ aery.net,premium,88,52%,4,"Arts,Fashion",08/12/2015 19:15,08/12/2025 19:15,Annul
 chowder.net,resell,88,80%,7,"Food and Beverage,Hospitality,Retail",16/01/2001 11:35,16/01/2026 11:35,"GoDaddy.com, LLC"
 sculpt.net,resell,88,76%,6,"Arts,Entertainment,Media",08/10/1998 04:00,07/10/2026 04:00,"GoDaddy.com, LLC"
 incarnadine.net,available,88,72%,11,"Arts,Fashion,Media",,,
-respondent.net,resell,88,80%,10,"Business,Law",22/10/2012 18:10,22/10/2025 18:10,"Spaceship, Inc."
+respondent.net,resell,88,32%,10,"Business,Law",22/10/2012 18:10,22/10/2025 18:10,"Spaceship, Inc."
 upturn.net,resell,88,80%,6,"Business,Finance,Real Estate",17/09/2003 18:48,17/09/2026 18:48,Dynadot Inc
 rural.net,resell,88,80%,5,"Agriculture,Environment,Real Estate",07/01/1999 05:00,07/01/2026 05:00,"GoDaddy.com, LLC"
 touching.net,resell,88,32%,8,"Arts,Entertainment",16/07/2003 18:18,16/07/2026 18:18,Dynadot Inc
 flourishing.net,expiring,88,84%,11,"Agriculture,Business,Health and Fitness",17/07/1999 18:18,17/07/2025 18:18,"GoDaddy.com, LLC"
 sailing.net,sold,88,84%,7,"Sports,Transportation,Travel",05/07/1996 04:00,04/07/2026 04:00,Dynadot Inc
-prenatal.net,resell,88,84%,8,"Health and Fitness,Medicine",12/07/1998 04:00,11/07/2026 04:00,"Sav.com, LLC"
+prenatal.net,resell,88,32%,8,"Health and Fitness,Medicine",12/07/1998 04:00,11/07/2026 04:00,"Sav.com, LLC"
 caterpillar.net,resell,88,88%,11,"Agriculture,Environment",29/04/2015 19:16,29/04/2026 19:16,"GoDaddy.com, LLC"
 takeout.net,premium,88,72%,7,"Food and Beverage,Hospitality,Retail",07/11/1997 05:00,01/02/2026 04:59,"Wild West Domains, LLC"
 remember.net,resell,88,92%,8,"Education,Healthcare,Technology",14/03/2003 19:06,14/03/2027 18:06,"GoDaddy.com, LLC"
@@ -220,7 +220,7 @@ deluxe.net,resell,82,96%,6,"Fashion,Hospitality,Retail",24/11/2002 19:02,24/11/2
 sanitary.net,resell,82,68%,8,"Food and Beverage,Healthcare,Pharmaceuticals",23/04/2011 18:15,23/04/2026 18:15,"GoDaddy.com, LLC"
 nature.net,expiring,82,88%,6,"Education,Environment,Science",31/07/1996 04:00,30/07/2025 04:00,"CSC Corporate Domains, Inc."
 galosh.net,resell,82,72%,6,"Fashion,Retail,Travel",26/02/2012 19:31,26/02/2026 19:31,"GoDaddy.com, LLC"
-anti.net,resell,82,88%,4,Politics,30/08/2001 18:05,30/08/2025 18:05,"Inames Co., Ltd."
+anti.net,resell,82,40%,4,Politics,30/08/2001 18:05,30/08/2025 18:05,"Inames Co., Ltd."
 forearm.net,resell,82,76%,7,"Healthcare,Medicine",22/09/2003 18:11,22/09/2025 18:11,"GoDaddy.com, LLC"
 practicing.net,resell,82,68%,10,"Education,Health and Fitness,Sports",05/04/2002 08:31,05/04/2027 07:31,"GoDaddy.com, LLC"
 poledance.net,resell,82,88%,10,"Arts,Entertainment",13/03/2005 19:09,13/03/2026 18:09,Dynadot Inc
@@ -286,7 +286,7 @@ prairiedog.net,resell,80,72%,11,"Environment,Media,Science",05/08/2001 11:02,05/
 absorbable.net,available,80,4%,10,"Healthcare,Pharmaceuticals,Science",,,
 ladies.net,resell,80,40%,6,General,03/04/2001 11:18,03/04/2026 11:18,"NameSilo, LLC"
 judder.net,available,80,72%,6,"Automotive,Engineering,Technology",,,
-alveolar.net,available,80,68%,8,Healthcare,,,
+alveolar.net,available,80,4%,8,Healthcare,,,
 belt.net,expiring,80,88%,4,"Automotive,Construction,Fashion,General",06/08/2001 10:36,06/08/2025 10:36,"GMO Internet Group, Inc. d/b/a Onamae.com"
 explicit.net,expiring,80,76%,8,"Education,Law,Media",31/07/1996 04:00,30/07/2025 04:00,"COREhub, S.R.L."
 orient.net,resell,80,72%,6,"Geography,Media,Travel",22/10/1998 04:00,21/10/2025 04:00,Tucows Domains Inc.
@@ -362,7 +362,7 @@ hankypank.net,available,78,72%,10,"Arts,Entertainment,Media",,,
 DominicanRepublican.net,available,78,72%,20,Politics,,,
 lutheran.net,resell,78,72%,8,"Humanities,Religion",05/10/1996 04:00,04/10/2025 04:00,"NameCheap, Inc."
 Moldovian.net,available,78,72%,9,"Geography,Humanities,Politics",,,
-approach.net,resell,78,84%,8,Business,19/02/2014 19:01,19/02/2026 19:01,"Spaceship, Inc."
+approach.net,resell,78,36%,8,Business,19/02/2014 19:01,19/02/2026 19:01,"Spaceship, Inc."
 feathery.net,resell,78,84%,8,"Arts,Fashion,Media",02/07/2018 13:45,02/07/2026 13:45,"GoDaddy.com, LLC"
 radiotelegraph.net,available,78,72%,14,"Technology,Telecommunications,Transportation",,,
 ragdoll.net,resell,78,88%,8,"Arts,Entertainment,Retail",05/01/1998 05:00,04/01/2027 05:00,Dynadot Inc
@@ -405,7 +405,7 @@ hightechnology.net,premium,77,80%,15,"Business,General,Technology",14/03/2000 18
 confucian.net,available,77,80%,9,Religion,,,
 convene.net,expiring,77,88%,7,"Business,Education,Law",22/07/2002 11:57,22/07/2025 11:57,"GoDaddy.com, LLC"
 cameraman.net,resell,77,76%,9,"Entertainment,Media,Technology",09/12/1999 16:33,09/12/2025 16:33,"GoDaddy.com, LLC"
-antiviral.net,resell,76,84%,9,"Healthcare,Pharmaceuticals",10/06/2001 10:42,10/06/2026 10:42,"Sav.com, LLC"
+antiviral.net,resell,76,20%,9,"Healthcare,Pharmaceuticals",10/06/2001 10:42,10/06/2026 10:42,"Sav.com, LLC"
 attach.net,resell,76,76%,6,"Business,Technology",10/10/1995 04:00,09/10/2025 04:00,Squarespace Domains II LLC
 endure.net,resell,76,88%,6,"Health and Fitness,Medicine,Sports",10/12/2001 07:01,10/12/2025 07:01,Dynadot Inc
 aspirational.net,resell,76,88%,12,Business,28/03/2020 01:31,28/03/2026 01:31,"GoDaddy.com, LLC"
@@ -450,7 +450,7 @@ dropin.net,expiring,76,88%,7,"Business,Hospitality,Technology",20/07/2003 18:24,
 letterofcredit.net,resell,76,72%,16,"Banking,Business,Finance",04/03/1999 05:00,04/03/2026 05:00,Moniker Online Services LLC
 tried.net,premium,76,76%,5,"Business,Education,Law",09/06/2004 18:03,09/06/2026 18:03,Annulet LLC
 betroth.net,available,76,72%,7,"Humanities,Law,Religion",,,
-amerind.net,available,76,76%,7,Geography,,,
+amerind.net,available,76,16%,7,Geography,,,
 coffeebush.net,available,76,72%,11,Food and Beverage,,,
 malar.net,resell,76,80%,5,"Healthcare,Medicine,Science",29/12/2011 19:17,29/12/2025 19:17,Dynadot Inc
 twentyfifth.net,available,76,72%,12,"Education,Humanities",,,
@@ -476,14 +476,14 @@ porky.net,expiring,76,80%,5,"Entertainment,Food and Beverage,Media",31/07/2002 1
 allgoodinthehood.net,available,76,76%,20,"Entertainment,Media",,,
 frivol.net,resell,76,80%,6,"Entertainment,Humanities,Media",06/08/2001 12:55,06/08/2026 12:55,Netregistry Wholesale Pty Ltd
 instal.net,resell,76,80%,6,"Construction,Engineering,Technology",19/10/2013 18:08,19/10/2025 18:08,"Wild West Domains, LLC"
-aquatic.net,resell,76,88%,7,"Agriculture,Environment",27/05/1998 04:00,26/05/2026 04:00,Dynadot Inc
+aquatic.net,resell,76,36%,7,"Agriculture,Environment",27/05/1998 04:00,26/05/2026 04:00,Dynadot Inc
 hamsterwheel.net,available,76,76%,13,"Entertainment,Health and Fitness,Media",,,
 makethebestof.net,available,76,72%,16,General,,,
 samesame.net,resell,76,72%,9,"Fashion,Media,Retail",06/09/2017 21:07,06/09/2025 21:07,"NameSilo, LLC"
 twentythird.net,available,76,72%,12,"Education,Humanities",,,
 bilobate.net,available,76,72%,8,Science,,,
 fitout.net,resell,76,84%,7,"Construction,General,Retail",29/11/2007 19:05,29/11/2026 19:05,Dynadot Inc
-angolan.net,available,76,72%,7,Geography,,,
+angolan.net,available,76,24%,7,Geography,,,
 recognisable.net,available,76,72%,12,"Media,Technology",,,
 ferment.net,premium,76,84%,7,"Food and Beverage,Pharmaceuticals,Science",17/06/2003 18:10,17/06/2026 18:10,Annulet LLC
 summertire.net,available,76,72%,11,"Automotive,Retail,Transportation",,,
@@ -491,6 +491,7 @@ coffeemaking.net,available,76,72%,13,Food and Beverage,,,
 khaki.net,resell,76,76%,5,"Fashion,Military,Retail",28/11/1999 03:17,28/11/2025 03:17,"Megazone Corp., dba HOSTING.KR"
 goit.net,resell,76,64%,5,General,05/09/2001 22:49,05/09/2025 22:49,"GoDaddy.com, LLC"
 afford.net,expiring,76,84%,6,"Business,Finance,Retail",26/07/2002 20:28,26/07/2025 20:28,"NameCheap, Inc."
+andean.net,resell,76,36%,6,Geography,14/01/2003 09:09,14/01/2026 09:09,Dynadot Inc
 southerly.net,resell,76,72%,9,"Business,Geography,Travel",21/09/2022 18:29,21/09/2025 18:29,DropCatch.com 486 LLC
 HBO.net,resell,76,84%,3,Entertainment,03/03/1999 05:00,03/03/2026 05:00,"GoDaddy.com, LLC"
 freehanded.net,available,76,72%,10,Arts,,,
@@ -502,7 +503,6 @@ twentyninth.net,available,76,72%,12,"Education,Humanities",,,
 doubledeal.net,available,76,80%,11,"Business,Law,Politics",,,
 coffeeculture.net,resell,76,84%,14,Food and Beverage,12/12/2018 19:43,12/12/2025 19:43,DropCatch.com 1034 LLC
 cinderblock.net,resell,76,88%,12,"Construction,Manufacturing,Real Estate",19/04/2025 22:15,19/04/2026 22:15,"Spaceship, Inc."
-ram.net,resell,76,96%,3,"Agriculture,Automotive,Technology",01/07/1993 04:00,30/06/2026 04:00,"GoDaddy.com, LLC"
 putacross.net,available,75,72%,10,"Business,Education,Media",,,
 concessive.net,available,75,72%,10,"Business,Law",,,
 congolese.net,available,75,76%,9,Geography,,,
@@ -748,7 +748,7 @@ Linzercookie.net,available,72,72%,13,"Food and Beverage,Hospitality",,,
 booncompanion.net,available,72,72%,14,"Humanities,Media",,,
 airmarshal.net,resell,72,80%,11,"Aviation,Transportation",10/10/2001 12:53,10/10/2025 12:53,"GoDaddy.com, LLC"
 spontaneous.net,expiring,72,80%,11,General,25/07/2022 18:01,25/07/2025 18:01,Porkbun LLC
-andorran.net,available,72,72%,8,Geography,,,
+andorran.net,available,72,8%,8,Geography,,,
 bowout.net,available,72,72%,7,"Business,Entertainment,Sports",,,
 hiker.net,resell,72,72%,5,"Health and Fitness,Sports,Travel",14/12/2000 11:41,14/12/2026 11:41,"Sea Wasp, LLC"
 makegarden.net,available,72,72%,11,"Agriculture,Environment",,,
@@ -790,7 +790,7 @@ BlackForestgateau.net,available,70,72%,19,Food and Beverage,,,
 commiserate.net,available,70,76%,11,"Arts,Humanities,Media",,,
 momandpop.net,expiring,70,80%,11,"Business,Hospitality,Retail",05/07/2015 19:08,05/07/2025 19:08,"GoDaddy.com, LLC"
 Californiakilowatt.net,available,70,72%,19,"Energy,Environment,Technology",,,
-premarital.net,sold,70,76%,10,Law,24/07/1999 18:10,24/07/2026 18:10,"GoDaddy.com, LLC"
+premarital.net,sold,70,24%,10,Law,24/07/1999 18:10,24/07/2026 18:10,"GoDaddy.com, LLC"
 healthproduct.net,expiring,70,76%,14,"Healthcare,Retail",10/07/2022 18:33,10/07/2025 18:33,"NameSilo, LLC"
 idalfitr.net,available,70,72%,10,"Humanities,Religion",,,
 bloodsample.net,available,70,72%,12,"Healthcare,Medicine,Pharmaceuticals",,,
@@ -886,7 +886,7 @@ letterofrelaxation.net,available,70,72%,20,"General,Health and Fitness",,,
 dairycake.net,available,70,72%,10,Food and Beverage,,,
 passengerseat.net,available,70,72%,14,"Automotive,Transportation,Travel",,,
 touched.net,premium,70,84%,7,"Healthcare,Medicine",21/04/2004 18:17,21/04/2026 18:17,Annulet LLC
-maker.net,resell,70,80%,5,"Manufacturing,Technology",03/05/2001 10:37,03/05/2026 10:37,GoDaddy Online Services Cayman Islands Ltd.
+maker.net,resell,70,52%,5,"Manufacturing,Technology",03/05/2001 10:37,03/05/2026 10:37,GoDaddy Online Services Cayman Islands Ltd.
 Klallam.net,available,70,72%,7,General,,,
 commonhippopotamus.net,available,70,72%,19,"Environment,General,Science",,,
 deepfrying.net,available,70,4%,11,"Food and Beverage,General,Health and Fitness",,,
@@ -925,7 +925,7 @@ bluetulip.net,expiring,70,80%,10,"Arts,Environment,Fashion",07/07/1999 16:28,07/
 getupto.net,available,70,72%,9,General,,,
 allabreve.net,available,70,80%,10,"Arts,General",,,
 Tallinner.net,available,70,72%,9,"Geography,Travel",,,
-inexpert.net,available,70,72%,8,Education,,,
+inexpert.net,available,70,12%,8,Education,,,
 WWF.net,resell,70,92%,3,"Entertainment,Environment",20/03/1998 05:00,19/03/2026 04:00,Tucows Domains Inc.
 legacystudent.net,available,70,72%,14,"Business,Education,Humanities",,,
 yogaball.net,available,70,76%,9,"Health and Fitness,Sports",,,
@@ -959,6 +959,7 @@ pinkish.net,sold,70,72%,7,"Fashion,Retail",10/09/2023 19:45,10/09/2025 19:45,"Sp
 cartoonery.net,available,70,4%,10,Entertainment,,,
 pail.net,resell,70,80%,4,"Construction,Food and Beverage,Retail",14/05/2002 03:28,14/05/2026 03:28,Dynadot Inc
 goldenboy.net,resell,70,88%,10,"Entertainment,Media,Sports",27/08/1997 04:00,26/08/2025 04:00,SafeBrands SAS
+answerable.net,expiring,70,24%,10,"Business,Law",08/08/2024 18:19,08/08/2025 18:19,DropCatch.com 429 LLC
 goodbet.net,expired,70,88%,8,General,18/05/1999 22:52,18/05/2025 22:51,"GoDaddy.com, LLC"
 demonstration.net,resell,70,80%,13,"General,Politics",08/06/1998 04:00,07/06/2026 04:00,InterNetX GmbH
 accuracy.net,resell,70,88%,8,"Engineering,Science,Technology",24/01/2001 11:33,24/01/2027 11:33,"Sea Wasp, LLC"
@@ -968,7 +969,6 @@ attic.net,expiring,70,76%,5,Real Estate,30/07/1997 04:00,29/07/2025 04:00,Dynado
 gopast.net,available,70,72%,7,"Entertainment,Media",,,
 getroundto.net,available,70,72%,12,General,,,
 invented.net,premium,70,80%,8,"Business,Technology",06/04/2002 12:15,06/04/2026 11:15,"DNC Holdings, Inc."
-prettyplease.net,premium,70,84%,13,"Arts,Entertainment,Media",29/08/2004 18:40,29/08/2025 18:40,Annulet LLC
 jay.net,expiring,69,92%,3,"Arts,Business,Media",17/03/1996 05:00,02/08/2025 09:37,"Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA"
 thicken.net,available,69,68%,7,"Construction,Food and Beverage,Pharmaceuticals",,,
 cyberpal.net,resell,69,76%,8,"Entertainment,Technology,Telecommunications",16/01/2023 19:34,16/01/2027 19:34,Tucows Domains Inc.
@@ -1019,7 +1019,7 @@ extravagancy.net,available,68,8%,12,"Entertainment,Fashion,General",,,
 getoveron.net,available,68,4%,11,General,,,
 haveacrackat.net,available,68,72%,15,General,,,
 sesquipedalian.net,available,68,72%,14,Education,,,
-upcoming.net,resell,68,100%,8,"Entertainment,Media",16/04/2001 10:33,16/04/2026 10:33,"OnlineNIC, Inc."
+upcoming.net,resell,68,48%,8,"Entertainment,Media",16/04/2001 10:33,16/04/2026 10:33,"OnlineNIC, Inc."
 farmersausage.net,available,68,72%,14,"Agriculture,Food and Beverage",,,
 electricaltape.net,available,68,72%,15,"Construction,General,Technology",,,
 butteredbeer.net,available,68,72%,13,"Food and Beverage,General,Hospitality",,,
@@ -1047,7 +1047,8 @@ birthdaybump.net,available,68,72%,13,"Entertainment,Retail",,,
 gymknickers.net,available,68,72%,12,"Health and Fitness,Retail",,,
 hellorhighwater.net,expiring,68,72%,18,"Entertainment,Media,Politics",06/07/2019 18:22,06/07/2025 18:22,DropCatch.com 1425 LLC
 corollary.net,expiring,68,76%,9,"Business,Education,Science",27/07/2003 07:00,27/07/2025 07:00,"NameCheap, Inc."
-annulate.net,available,68,72%,8,"Engineering,Mathematics",,,
+antiquary.net,resell,68,12%,9,Arts,17/06/2024 19:27,17/06/2026 19:27,"GoDaddy.com, LLC"
+annulate.net,available,68,4%,8,"Engineering,Mathematics",,,
 docetist.net,available,68,72%,8,"Humanities,Religion",,,
 egglaying.net,available,68,72%,10,"Agriculture,Environment,Food and Beverage",,,
 realitycheck.net,resell,68,92%,13,"Business,Education,Media",24/06/1997 04:00,23/06/2026 04:00,Dynadot Inc
@@ -1060,7 +1061,7 @@ lambpie.net,available,68,72%,8,"Food and Beverage,Hospitality,Retail",,,
 easeoff.net,available,68,72%,8,"Business,Health and Fitness,Healthcare",,,
 makeground.net,available,68,72%,11,General,,,
 bedofhonour.net,available,68,72%,13,General,,,
-anticlinal.net,available,68,72%,10,"Mining,Science",,,
+anticlinal.net,available,68,8%,10,"Mining,Science",,,
 bioincubator.net,available,68,72%,12,"Healthcare,Pharmaceuticals,Technology",,,
 fulltime.net,resell,68,80%,9,"Business,Media,Technology",09/08/2000 11:11,09/08/2025 11:11,Porkbun LLC
 comeoutinthewash.net,available,68,72%,20,General,,,
@@ -1123,7 +1124,7 @@ Souwegian.net,available,68,72%,9,Entertainment,,,
 overseas.net,resell,68,24%,8,"Hospitality,Travel",21/10/2001 18:03,21/10/2025 18:03,"Sea Wasp, LLC"
 psyche.net,resell,68,88%,6,"Humanities,Medicine",05/12/1998 05:00,04/12/2025 05:00,"GoDaddy.com, LLC"
 sparkly.net,expiring,68,52%,7,"Arts,Fashion",22/08/2007 13:04,22/08/2025 13:04,"GoDaddy.com, LLC"
-anesthetic.net,resell,68,68%,10,Medicine,05/03/2025 20:42,05/03/2026 20:42,"GoDaddy.com, LLC"
+anesthetic.net,resell,68,8%,10,Medicine,05/03/2025 20:42,05/03/2026 20:42,"GoDaddy.com, LLC"
 goodwillambassador.net,available,68,72%,19,"Business,Politics",,,
 gentleness.net,resell,68,72%,10,"Education,Humanities,Media",04/05/2007 18:36,04/05/2026 18:36,"eNom, LLC"
 craved.net,expiring,68,80%,6,"Entertainment,Fashion,Retail",11/07/2004 18:40,11/07/2025 18:40,"Global Domains International, Inc. DBA DomainCostClub.com"
@@ -1172,6 +1173,7 @@ needed.net,resell,68,72%,6,"Business,Healthcare",17/12/1997 05:00,16/12/2025 05:
 makemeat.net,available,68,72%,9,Food and Beverage,,,
 grabsomeZs.net,available,68,4%,12,"Arts,General,Health and Fitness",,,
 saler.net,expiring,68,92%,5,"Business,Finance,Retail",27/07/2024 18:37,27/07/2025 18:37,1API GmbH
+angelical.net,resell,68,8%,9,"Arts,Religion",20/05/2012 18:37,20/05/2026 18:37,"GoDaddy.com, LLC"
 fiftieth.net,available,68,4%,8,Mathematics,,,
 comeupon.net,available,68,72%,9,"Humanities,Media",,,
 leadingwoman.net,available,68,76%,13,"Entertainment,General,Media",,,
@@ -1228,7 +1230,7 @@ LittleRussia.net,available,66,76%,13,"Geography,Media,Politics",,,
 cherrymerrybamboo.net,available,66,72%,19,General,,,
 aromaticrice.net,available,66,0%,13,Food and Beverage,,,
 upside.net,resell,66,88%,6,Finance,21/01/1997 05:00,22/01/2026 05:00,Moniker Online Services LLC
-completely.net,resell,66,null%,10,"Business,Technology",07/03/2023 19:02,07/03/2026 19:02,DropCatch.com 1328 LLC
+completely.net,resell,66,24%,10,"Business,Technology",07/03/2023 19:02,07/03/2026 19:02,DropCatch.com 1328 LLC
 changeplaces.net,available,66,72%,13,General,,,
 classify.net,resell,66,76%,8,"Education,Science,Technology",25/05/2004 18:30,25/05/2026 18:30,"TurnCommerce, Inc. DBA NameBright.com"
 optimalize.net,available,66,72%,10,"Business,Engineering,Technology",,,
@@ -1320,7 +1322,7 @@ reshape.net,resell,66,84%,7,"Arts,Business,Technology",06/05/2005 18:33,06/05/20
 adopted.net,resell,66,16%,7,"Education,Healthcare",28/05/1999 18:57,28/05/2026 18:58,"GoDaddy.com, LLC"
 chocice.net,available,66,76%,8,"Food and Beverage,Hospitality,Retail",,,
 WirehairedVizsla.net,available,66,72%,17,"Agriculture,Entertainment",,,
-anonymous.net,resell,66,80%,9,"Media,Technology",21/05/1997 04:00,22/05/2026 04:00,SafeNames Ltd.
+anonymous.net,resell,66,36%,9,"Media,Technology",21/05/1997 04:00,22/05/2026 04:00,SafeNames Ltd.
 catchnapping.net,available,66,72%,13,General,,,
 catchsomezs.net,available,66,8%,13,General,,,
 twoweeks.net,resell,66,76%,9,"Entertainment,Media,Travel",05/02/2019 20:38,05/02/2026 20:38,Dynadot Inc
@@ -1413,6 +1415,7 @@ highranking.net,available,66,68%,12,"Business,Military,Politics",,,
 answerto.net,available,66,80%,9,General,,,
 cellulartelephone.net,available,66,72%,18,Telecommunications,,,
 baserunner.net,expiring,66,76%,11,Sports,23/07/2003 11:47,23/07/2025 11:47,"GoDaddy.com, LLC"
+antarctic.net,premium,66,28%,9,"Geography,Science,Travel",12/05/2004 18:44,12/05/2026 18:44,Annulet LLC
 nightowl.net,resell,66,80%,9,"Arts,Entertainment,Media",15/09/1995 04:00,14/09/2026 04:00,Dynadot Inc
 bargainfor.net,available,66,8%,11,Business,,,
 mangotree.net,expiring,66,80%,10,"Agriculture,Environment,Food and Beverage",17/07/2004 18:27,17/07/2025 18:27,"GoDaddy.com, LLC"
@@ -2658,6 +2661,7 @@ quinnatsalmon.net,available,60,72%,14,"Agriculture,Environment,Science",,,
 peruser.net,available,60,76%,7,"Education,Media",,,
 bookofwords.net,available,60,72%,13,"Business,Media",,,
 booknumber.net,available,60,72%,11,"Business,Media",,,
+anterior.net,expiring,60,20%,8,Medicine,11/08/2023 19:28,11/08/2025 19:28,"NameCheap, Inc."
 speedfreak.net,available,60,80%,10,"Automotive,Entertainment,Sports",,,
 ablebodyist.net,available,60,72%,12,"Health and Fitness,Medicine",,,
 firstinfirstout.net,available,60,72%,18,"Finance,General,Technology",,,
@@ -2747,7 +2751,7 @@ bookagent.net,available,60,72%,10,"Business,Media",,,
 malehorse.net,available,60,72%,10,"Agriculture,Entertainment,Sports",,,
 partygoer.net,available,60,72%,9,"Entertainment,Hospitality,Travel",,,
 antislavery.net,expired,60,80%,11,"Humanities,Politics",21/04/2019 09:07,21/04/2025 09:07,"NameCheap, Inc."
-fungicidal.net,available,60,72%,10,"Agriculture,Science",,,
+fungicidal.net,available,60,8%,10,"Agriculture,Science",,,
 moneyshifting.net,available,60,72%,14,"Business,Finance,General",,,
 Canadiandainty.net,available,60,72%,15,General,,,
 laughterlines.net,available,60,72%,14,Fashion,,,
@@ -2850,7 +2854,7 @@ integrationist.net,available,60,72%,14,"Business,Education,Politics",,,
 impressively.net,available,60,72%,12,"Arts,Business,Media",,,
 reclarify.net,available,60,72%,9,Business,,,
 although.net,resell,60,76%,8,"Business,Education,Humanities",16/11/2001 01:50,16/11/2025 01:50,"Sav.com, LLC"
-oneyear.net,resell,60,80%,8,Education,18/10/2017 11:08,18/10/2025 11:08,"GoDaddy.com, LLC"
+oneyear.net,resell,60,40%,8,Education,18/10/2017 11:08,18/10/2025 11:08,"GoDaddy.com, LLC"
 honorjar.net,available,60,72%,9,"Business,Hospitality,Retail",,,
 coolhouse.net,resell,60,80%,9,"Construction,Hospitality,Real Estate",26/08/2021 18:30,26/08/2025 18:30,"NameSilo, LLC"
 greencaviar.net,available,60,72%,12,Food and Beverage,,,
@@ -3000,7 +3004,7 @@ toybox.net,resell,60,80%,7,Retail,16/04/2012 18:26,16/04/2026 18:26,"eNom, LLC"
 parboil.net,available,60,72%,7,"Food and Beverage,Hospitality,Retail",,,
 ecologicalpyramid.net,available,60,72%,18,"Environment,Science",,,
 precook.net,available,60,72%,7,"Food and Beverage,Hospitality,Retail",,,
-germicide.net,available,60,72%,9,"Health and Fitness,Medicine",,,
+germicide.net,available,60,8%,9,"Health and Fitness,Medicine",,,
 airquote.net,available,60,72%,9,"Arts,Entertainment,Media",,,
 blackjackoak.net,available,60,72%,13,"Agriculture,Environment,Science",,,
 glassnoodle.net,available,60,72%,12,"Food and Beverage,Hospitality,Retail",,,
@@ -3222,7 +3226,6 @@ bookoffirstentry.net,available,60,72%,19,"Business,Media",,,
 reaccentuate.net,available,60,72%,12,"Arts,Entertainment,Media",,,
 shoed.net,available,60,72%,5,"Fashion,Manufacturing,Retail",,,
 cricketfield.net,available,60,72%,13,"Entertainment,Media,Sports",,,
-shoebag.net,available,60,72%,7,"Fashion,Retail",,,
 highstrikes.net,available,59,72%,12,"Entertainment,General,Sports",,,
 jellied.net,available,59,72%,7,"Medicine,Science",,,
 ideational.net,available,59,76%,10,"Arts,Education",,,
@@ -3636,7 +3639,7 @@ robotized.net,available,58,84%,9,"Engineering,Manufacturing,Technology",,,
 lookingforwardto.net,available,58,16%,18,General,,,
 freedomofmovement.net,expiring,58,20%,19,Politics,19/07/2007 12:21,19/07/2025 12:21,"GoDaddy.com, LLC"
 sulfurbath.net,available,58,72%,11,"Healthcare,Medicine",,,
-cultivable.net,available,58,72%,10,Agriculture,,,
+cultivable.net,available,58,4%,10,Agriculture,,,
 workingday.net,expiring,58,76%,11,"Business,Education,Media",06/07/2011 18:27,06/07/2025 18:27,Nameling.com LLC
 Gfunk.net,available,58,24%,6,"Entertainment,General",,,
 edwardv.net,available,58,76%,8,"Education,Humanities",,,
@@ -3868,7 +3871,7 @@ Miah.net,resell,58,80%,4,Entertainment,11/11/2001 14:33,11/11/2025 14:33,"Online
 airtoairmissile.net,available,58,72%,18,"Engineering,Military,Technology",,,
 pairbond.net,available,58,80%,9,"Education,Healthcare,Science",,,
 desktopenvironment.net,available,58,72%,19,"Business,Education,Technology",,,
-amethyst.net,resell,58,92%,8,Fashion,05/09/2001 18:01,05/09/2025 18:01,"OnlineNIC, Inc."
+amethyst.net,resell,58,28%,8,Fashion,05/09/2001 18:01,05/09/2025 18:01,"OnlineNIC, Inc."
 keptwoman.net,expiring,58,76%,10,General,20/07/2016 00:43,20/07/2025 00:43,PDR Ltd. d/b/a PublicDomainRegistry.com
 corianderseed.net,available,58,76%,14,"Agriculture,Food and Beverage,General",,,
 specialschool.net,available,58,72%,14,"Education,Healthcare",,,
@@ -4038,7 +4041,6 @@ agedifference.net,available,58,72%,14,Media,,,
 armybrat.net,expiring,58,72%,9,"Education,Humanities,Military",28/07/2005 18:11,28/07/2025 18:11,"GoDaddy.com, LLC"
 doner.net,resell,58,88%,5,"Food and Beverage,Hospitality,Retail",07/06/2003 18:02,07/06/2026 18:02,"TurnCommerce, Inc. DBA NameBright.com"
 HouseofParliament.net,available,58,76%,19,Politics,,,
-possessivecase.net,available,58,72%,15,"Education,Humanities",,,
 meanstest.net,available,57,72%,10,"Finance,Law",,,
 reinitialize.net,available,57,72%,12,"Engineering,Technology",,,
 benignly.net,available,57,72%,8,"Education,Healthcare",,,
@@ -4069,7 +4071,7 @@ Sunita.net,resell,56,92%,6,General,21/09/2012 10:07,21/09/2025 10:07,Dynadot Inc
 gongorism.net,available,56,72%,9,"Arts,Humanities",,,
 interpellation.net,available,56,12%,14,General,,,
 elasticsided.net,available,56,4%,13,Fashion,,,
-staminate.net,available,56,72%,9,Science,,,
+staminate.net,available,56,8%,9,Science,,,
 scrotum.net,resell,56,76%,7,"Healthcare,Medicine",16/01/2000 07:22,16/01/2026 07:22,"Register.com, Inc."
 overhearing.net,available,56,72%,11,"Media,Technology,Telecommunications",,,
 sixtyfourth.net,available,56,72%,12,"Business,Education,Media",,,
@@ -4453,7 +4455,7 @@ seismometer.net,available,56,72%,11,"Engineering,Environment,Science",,,
 Foods.net,expiring,56,92%,5,Food and Beverage,26/07/1997 04:00,25/07/2025 04:00,Tucows Domains Inc.
 supercentrifuge.net,available,56,72%,15,"Manufacturing,Pharmaceuticals,Science",,,
 greenjointfir.net,available,56,72%,14,General,,,
-spiderly.net,available,56,72%,8,Agriculture,,,
+spiderly.net,available,56,12%,8,Agriculture,,,
 paperbagwaist.net,available,56,72%,14,"Fashion,Manufacturing,Retail",,,
 xxxvii.net,available,56,12%,6,Mathematics,,,
 forgetoneself.net,available,56,72%,14,General,,,
@@ -4899,7 +4901,7 @@ lakedwelling.net,available,56,72%,13,"Environment,Real Estate,Travel",,,
 shoulderstrap.net,available,56,72%,14,"Fashion,Health and Fitness,Retail",,,
 crestedporcupine.net,available,56,72%,17,"Education,Environment,Science",,,
 allpurposeflour.net,available,56,68%,17,Food and Beverage,,,
-amebic.net,available,56,72%,6,Science,,,
+amebic.net,available,56,8%,6,Science,,,
 luncheonettes.net,available,56,8%,13,"Food and Beverage,General,Hospitality",,,
 inshortorder.net,available,56,76%,14,General,,,
 biologicalmother.net,available,56,72%,17,"Healthcare,Humanities",,,
@@ -5030,7 +5032,7 @@ bigkid.net,resell,54,80%,7,General,12/04/2004 18:11,12/04/2026 18:11,Dynadot Inc
 AtlanticCanada.net,expiring,54,72%,15,Geography,20/07/2009 11:51,20/07/2025 11:51,"GoDaddy.com, LLC"
 babyandbathwater.net,available,54,72%,18,General,,,
 autobiographical.net,available,54,72%,16,"Education,Humanities,Media",,,
-amerindic.net,available,54,72%,9,Geography,,,
+amerindic.net,available,54,4%,9,Geography,,,
 closetoftheheart.net,available,54,72%,19,General,,,
 crackberry.net,available,54,72%,10,"Business,Media,Technology",,,
 buffersolution.net,available,54,72%,15,"Pharmaceuticals,Science,Technology",,,
@@ -5060,7 +5062,7 @@ maidenly.net,available,54,72%,8,"Arts,Media",,,
 Ashleigh.net,resell,54,76%,8,General,07/04/2002 18:28,07/04/2027 18:28,Dynadot Inc
 allcourtpress.net,available,54,72%,15,Sports,,,
 impingeon.net,available,54,72%,10,"Business,Law,Politics",,,
-allogamous.net,available,54,72%,10,Science,,,
+allogamous.net,available,54,8%,10,Science,,,
 haroldii.net,available,54,72%,9,"Education,Media",,,
 tactfully.net,available,54,72%,9,"Business,Education,Media",,,
 Ihaveatemperature.net,available,54,72%,20,General,,,
@@ -5123,8 +5125,8 @@ dollarandcent.net,available,54,72%,15,General,,,
 shorthundred.net,available,54,72%,13,"Business,Food and Beverage,Retail",,,
 whiting.net,expiring,54,84%,7,"Environment,Food and Beverage,Science",02/08/1998 04:00,01/08/2025 04:00,Epik LLC
 beholdenness.net,available,54,4%,12,"Entertainment,General,Media",,,
-annular.net,expiring,54,80%,7,"Engineering,Mathematics",06/07/2018 18:16,06/07/2025 18:16,DropCatch.com 1139 LLC
-approving.net,resell,54,72%,9,Business,11/01/2005 19:14,11/01/2026 19:14,"Sea Wasp, LLC"
+annular.net,sold,54,24%,7,"Engineering,Mathematics",06/07/2018 18:16,06/07/2026 18:16,DropCatch.com 1139 LLC
+approving.net,resell,54,16%,9,Business,11/01/2005 19:14,11/01/2026 19:14,"Sea Wasp, LLC"
 scrawledfilefish.net,available,54,72%,17,"Agriculture,Environment,Science",,,
 whiteknuckleride.net,available,54,72%,18,"Entertainment,Media,Travel",,,
 flossiness.net,available,54,4%,10,General,,,
@@ -5728,7 +5730,7 @@ actionstations.net,available,54,72%,15,Transportation,,,
 cherrycoal.net,available,54,72%,11,Mining,,,
 acinaces.net,available,54,8%,8,General,,,
 hardbeech.net,available,54,72%,10,"Construction,Environment,Manufacturing",,,
-antitrust.net,resell,54,80%,9,"Business,Law",05/06/2017 18:47,01/01/2026 11:59,"GoDaddy.com, LLC"
+antitrust.net,resell,54,44%,9,"Business,Law",05/06/2017 18:47,01/01/2026 11:59,"GoDaddy.com, LLC"
 jumpbail.net,available,54,72%,9,Law,,,
 lineofoperations.net,available,54,72%,18,Business,,,
 seniorlike.net,available,54,72%,10,"Healthcare,Media,Technology",,,
@@ -5760,6 +5762,7 @@ charting.net,resell,54,76%,8,"Business,Healthcare",06/08/2001 11:02,06/08/2026 1
 colourproud.net,available,54,72%,12,General,,,
 humanenhancement.net,available,54,72%,17,Technology,,,
 spangledcoquette.net,available,54,72%,17,Fashion,,,
+kneedeep.net,resell,54,16%,9,Geography,25/03/2017 18:19,25/03/2026 18:19,"SNAPNAMES 82, LLC"
 calisthenic.net,available,54,20%,11,Health and Fitness,,,
 delegatee.net,available,54,72%,9,"Business,Law,Politics",,,
 allupweight.net,available,54,72%,13,General,,,
@@ -6047,7 +6050,7 @@ prolactin.net,available,52,76%,9,Medicine,,,
 IndoChinese.net,available,52,72%,12,"Geography,Politics",,,
 GreaterArmenia.net,available,52,72%,15,Geography,,,
 Fortriu.net,available,52,72%,7,General,,,
-amateurish.net,available,52,76%,10,Sports,,,
+amateurish.net,available,52,16%,10,Sports,,,
 Athanasia.net,expired,52,80%,9,General,10/05/2023 14:39,10/05/2025 14:39,"NameCheap, Inc."
 Brexiter.net,available,52,76%,8,"Business,Politics",,,
 Stenian.net,available,52,72%,7,General,,,
@@ -6399,7 +6402,6 @@ supposal.net,available,52,72%,8,"Business,Humanities,Law",,,
 encourages.net,available,52,20%,10,"Business,Education,Healthcare",,,
 generically.net,available,52,72%,11,"Business,Technology",,,
 artlessness.net,available,52,8%,11,General,,,
-Fresnes.net,available,52,72%,7,General,,,
 rimose.net,available,51,72%,6,"Environment,Geography,Science",,,
 nervily.net,available,51,72%,7,Education,,,
 letwellalone.net,available,51,72%,14,General,,,
@@ -6426,7 +6428,7 @@ Giniindex.net,available,50,72%,10,Mathematics,,,
 lateon.net,available,50,72%,7,"Media,Sports",,,
 lustrously.net,resell,50,72%,10,"Arts,Fashion,Media",28/06/2006 05:40,28/06/2026 05:40,"GoDaddy.com, LLC"
 coolheadsprevail.net,available,50,72%,18,General,,,
-ametabolic.net,available,50,72%,10,Science,,,
+ametabolic.net,available,50,12%,10,Science,,,
 recessed.net,resell,50,72%,8,"Construction,Real Estate,Technology",23/03/2021 04:30,23/03/2026 04:30,Squarespace Domains II LLC
 Wickenby.net,available,50,72%,8,General,,,
 Whinmoor.net,available,50,72%,8,General,,,
@@ -6456,7 +6458,7 @@ assertions.net,expiring,50,12%,10,General,12/07/2019 12:41,12/07/2025 12:41,One.
 deeply.net,sold,50,88%,6,"Arts,Entertainment,Media",22/09/2003 18:33,22/09/2026 18:33,"TurnCommerce, Inc. DBA NameBright.com"
 mellifluously.net,available,50,72%,13,Arts,,,
 allgirls.net,resell,50,72%,9,General,06/10/2020 00:58,06/10/2025 00:58,"GoDaddy.com, LLC"
-ametropic.net,available,50,72%,9,Healthcare,,,
+ametropic.net,available,50,4%,9,Healthcare,,,
 Whiteabbey.net,available,50,72%,10,General,,,
 transmittant.net,available,50,72%,12,"Healthcare,Pharmaceuticals,Science",,,
 launchtitle.net,available,50,8%,12,"Entertainment,General,Media",,,
@@ -6567,7 +6569,7 @@ havetheupperhand.net,available,50,8%,19,General,,,
 demurely.net,available,50,72%,8,"Arts,Entertainment,Fashion",,,
 AndamanSea.net,available,50,4%,11,Geography,,,
 gladial.net,available,50,8%,7,General,,,
-annulated.net,available,50,72%,9,"Engineering,Mathematics",,,
+annulated.net,available,50,8%,9,"Engineering,Mathematics",,,
 glassblown.net,available,50,72%,10,General,,,
 Whangaehu.net,available,50,72%,9,General,,,
 Widmerpool.net,available,50,72%,10,General,,,
@@ -6755,7 +6757,7 @@ dualbraked.net,available,50,72%,11,Automotive,,,
 hannover.net,resell,50,88%,8,"Business,Geography,Travel",07/02/1996 05:00,08/02/2026 05:00,InterNetX GmbH
 bullionless.net,available,50,4%,11,General,,,
 postural.net,available,50,76%,8,"Healthcare,Medicine,Sports",,,
-aneurysmal.net,available,50,72%,10,Medicine,,,
+aneurysmal.net,available,50,8%,10,Medicine,,,
 CardiganBay.net,available,50,8%,12,Travel,,,
 coached.net,premium,50,32%,7,"Education,General,Sports",11/01/2008 20:00,11/01/2026 20:00,Annulet LLC
 Whangpoo.net,available,50,72%,8,General,,,
@@ -6773,7 +6775,6 @@ footman.net,resell,50,80%,7,Entertainment,25/01/2002 20:00,25/01/2026 20:00,Dyna
 Whenuapai.net,available,50,72%,9,General,,,
 blackbeard.net,expiring,50,80%,10,"Entertainment,Media",31/07/2003 18:20,31/07/2025 18:20,"GoDaddy.com, LLC"
 interdependently.net,available,50,72%,16,Business,,,
-hydrophobic.net,expired,50,76%,11,"Healthcare,Pharmaceuticals,Science",22/05/2024 19:05,22/05/2025 19:05,Tucows Domains Inc.
 lettertelegram.net,available,49,72%,15,"General,Telecommunications",,,
 concertxylophone.net,available,49,72%,17,"Education,Entertainment",,,
 highvelocity.net,expiring,49,40%,13,"General,Science,Technology",13/07/2003 18:06,13/07/2025 18:06,"CSC Corporate Domains, Inc."
@@ -6890,7 +6891,7 @@ Stanovoy.net,available,48,72%,8,"General,Geography",,,
 jamborees.net,available,48,4%,9,Entertainment,,,
 regionally.net,available,48,72%,10,"Business,Geography,Politics",,,
 Loristan.net,available,48,72%,8,"Business,Geography,Travel",,,
-someother.net,available,48,76%,10,Technology,,,
+someother.net,available,48,24%,10,Technology,,,
 sloped.net,available,48,80%,6,Mathematics,,,
 backtobacktoback.net,available,48,72%,20,General,,,
 happyasaclam.net,available,48,16%,15,General,,,
@@ -7000,7 +7001,7 @@ intercreatively.net,available,48,72%,15,"Arts,Media,Technology",,,
 BookofEther.net,available,48,8%,13,"Media,Religion",,,
 FrenchGuinea.net,available,48,72%,13,Geography,,,
 sceptered.net,available,48,72%,9,"Arts,Humanities,Politics",,,
-enlivening.net,available,48,72%,10,Health and Fitness,,,
+enlivening.net,available,48,16%,10,Health and Fitness,,,
 Gorbio.net,available,48,72%,6,General,,,
 GreenIsland.net,expiring,48,84%,12,Travel,23/07/2015 18:25,23/07/2025 18:25,Epik LLC
 Kitchawong.net,available,48,72%,10,General,,,
@@ -8208,7 +8209,6 @@ closetdevotion.net,available,36,4%,15,Religion,,,
 courtfees.net,available,36,8%,10,Law,,,
 fixedtermtenancy.net,available,36,4%,18,Real Estate,,,
 drawbreath.net,available,36,72%,11,General,,,
-dispensaries.net,resell,36,16%,12,Healthcare,10/10/2014 18:25,10/10/2027 18:25,"GoDaddy.com, LLC"
 artrooom.net,available,35,72%,9,Arts,,,
 allrightsreversed.net,available,34,8%,19,Law,,,
 keyholesanddollar.net,available,34,4%,19,"Environment,Science",,,
