@@ -1,7 +1,7 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 a24b2512-f86e-4329-9206-825db2eddf78,AAAA.net,resell,68,84,4,Dynadot Inc,05/08/2002 18:05,05/08/2025 18:05
 ff5c3abc-671d-4361-a659-084d3bead546,abactinal.net,available,50,1,9,,,
-947c89dc-a0df-43fd-826d-462b3e91a8c3,abandoned.net,resell,58,10,9,"TurnCommerce, Inc. DBA NameBright.com",06/01/2015 19:30,06/01/2026 19:30
+947c89dc-a0df-43fd-826d-462b3e91a8c3,abandoned.net,resell,58,7,9,"TurnCommerce, Inc. DBA NameBright.com",06/01/2015 19:30,06/01/2026 19:30
 4571137a-793a-403f-a7ab-a0750322fa5b,abashed.net,available,60,2,7,,,
 fd7476f0-8f07-456b-b1a2-ff9d1777b5fc,abatable.net,available,54,1,8,,,
 e2ab1e6c-a11f-46ec-a7a4-8f5e02f3bf46,abatement.net,resell,52,80,9,"OnlineNIC, Inc.",28/06/2001 10:41,28/06/2026 10:41
@@ -26,7 +26,7 @@ d9899763-9055-44d1-8c6b-8b6706ac2498,abducting.net,available,50,1,9,,,
 ddc90ec2-4934-40d4-850a-8c4b3ec4ac32,aberdonian.net,available,68,1,10,,,
 31b337fb-c9e3-45ed-b607-5ef19c6b5b5c,Abertsquirrel.net,available,54,72,14,,,
 8299e1d7-c80b-4e41-964c-0e0a5188600e,abeyant.net,available,56,2,7,,,
-06a88e59-1955-4b43-ac34-264c3782fc55,abhorrent.net,available,54,1,9,,,
+06a88e59-1955-4b43-ac34-264c3782fc55,abhorrent.net,available,54,3,9,,,
 d51f573a-531c-4888-afa7-21213aeb81a3,abhydrolase.net,available,64,4,11,,,
 feda23de-afe8-4667-9243-3148b32fb80a,abibliophobia.net,available,64,4,13,,,
 e8b24afa-0613-4b5b-9590-426fb209ebd5,abidden.net,available,50,4,7,,,
@@ -88,7 +88,7 @@ d37ace9a-74d4-4384-9a78-a53669ba4cde,ablative.net,available,68,3,8,,,
 0a4b8432-5d57-405d-bc9f-0ced423f4585,ablebodyist.net,available,60,72,12,,,
 8451b931-118f-4c1c-83b9-1e9047ccbb40,abloom.net,resell,72,5,6,Dynadot Inc,15/02/2022 19:19,15/02/2026 19:19
 9c03608b-b43a-4b39-b42b-e554e9a51640,abnaki.net,available,68,2,6,,,
-9fd3ba91-2814-4c54-a80d-b62b93f960dc,abnormal.net,resell,74,16,8,"GoDaddy.com, LLC",17/08/1998 04:00,16/08/2026 04:00
+9fd3ba91-2814-4c54-a80d-b62b93f960dc,abnormal.net,resell,74,15,8,"GoDaddy.com, LLC",17/08/1998 04:00,16/08/2026 04:00
 9f1c4c91-4021-44fe-9436-e565efb7f284,abodes.net,resell,42,40,6,Dynadot Inc,03/11/2022 06:55,03/11/2026 06:55
 aaee496b-c977-4b9d-a5b6-56787f6b965a,abolishes.net,available,38,8,9,,,
 4bc698c6-8ab9-4cf9-91e2-486e33cb1919,abolishing.net,available,38,68,10,,,
@@ -126,7 +126,7 @@ a8bef164-b1de-463c-8772-72ed2740c5c2,abovethescroll.net,available,44,12,16,,,
 54c4f46a-3cc2-4c83-bd50-7b1ac93f452e,Abramcove.net,available,56,72,10,,,
 c0eb21f8-861e-43f9-9a45-17567de12896,abranchial.net,available,50,1,10,,,
 90d4910d-f228-4e50-877e-29b781635ac9,abrasion.net,resell,54,76,8,Dynadot Inc,26/04/2023 18:14,26/04/2026 18:14
-6fc84452-faaa-4190-a107-5bb25b0e1d2c,abroad.net,resell,92,12,6,"Gabia, Inc.",08/10/2001 18:02,08/10/2025 18:02
+6fc84452-faaa-4190-a107-5bb25b0e1d2c,abroad.net,resell,92,10,6,"Gabia, Inc.",08/10/2001 18:02,08/10/2026 18:02
 5f7ef091-235a-4fa5-a3d0-d94faf615f8d,abroller.net,available,60,72,9,,,
 24e615c3-ff8d-4931-b82e-7b11d5a541c5,abrollerwheel.net,available,60,72,15,,,
 3c156793-55b8-4f93-9dd1-20c5f2126006,abrupt.net,resell,100,4,6,Whois Corp.,18/05/2000 10:56,18/05/2026 10:56
@@ -196,7 +196,7 @@ ff544f26-bf81-4a9b-bd4b-4c5cdc04007d,abstained.net,available,36,4,9,,,
 2f23fcf3-0a37-4a37-be23-6a74aa1e748b,abstainer.net,available,60,1,9,,,
 0d9a8e20-92b5-48fa-8944-d587e37ad997,abstemious.net,resell,60,1,10,GoDaddy Online Services Cayman Islands Ltd.,24/08/2010 20:56,24/08/2026 20:56
 6e915c12-8213-4654-8562-15f2bdcc023d,abstemiously.net,available,46,72,12,,,
-11b69bdf-3deb-47e3-89b5-3b082771052c,abstract.net,resell,108,28,8,"GoDaddy.com, LLC",22/12/1999 08:18,22/12/2025 08:18
+11b69bdf-3deb-47e3-89b5-3b082771052c,abstract.net,resell,108,25,8,"GoDaddy.com, LLC",22/12/1999 08:18,22/12/2026 08:18
 967b7e79-627b-4dd8-a6ed-bb70fadda66e,abstractart.net,resell,58,80,12,"GoDaddy.com, LLC",21/02/2002 10:37,21/02/2026 10:37
 01d1a857-5ba9-4c75-b01a-1736c1e69046,abstracted.net,resell,48,6,10,"Name.com, Inc.",02/07/2021 18:05,02/07/2026 18:05
 2032013d-6736-46bb-8293-fe2b16c9e7fc,abstractidea.net,available,60,72,13,,,
@@ -204,7 +204,7 @@ ff544f26-bf81-4a9b-bd4b-4c5cdc04007d,abstained.net,available,36,4,9,,,
 e7407729-7b0a-40ec-9c38-2ba8bffa5157,abstractions.net,resell,36,40,12,"GoDaddy.com, LLC",13/05/2002 18:41,13/05/2026 18:41
 b366c1e3-5532-4272-b9e8-2be878527d28,abstruse.net,available,52,3,8,,,
 59eb9eaf-ceec-4891-8cac-5242738a6c55,abulic.net,available,70,2,6,,,
-0d39a69a-5b11-46ec-a53b-d02c81cb1a65,abundant.net,resell,80,19,8,Dynadot Inc,08/09/1997 04:00,07/09/2026 04:00
+0d39a69a-5b11-46ec-a53b-d02c81cb1a65,abundant.net,resell,80,18,8,Dynadot Inc,08/09/1997 04:00,07/09/2026 04:00
 fb5c8488-b814-4d7f-af4a-34155a4df0bf,abused.net,resell,58,5,6,"GoDaddy.com, LLC",07/04/1999 04:00,01/01/2026 11:59
 559f8bbc-aa7b-4f8d-b6b2-9dd58645a863,abyssal.net,resell,48,13,7,"GoDaddy.com, LLC",15/01/2014 19:07,15/01/2026 19:07
 437344ea-9c2f-4461-9e2b-27407df9e97a,Abyssinianwell.net,available,56,72,15,,,
@@ -248,7 +248,6 @@ bbf7a066-0f4a-4480-b478-fac433c96bd5,acceptancespeech.net,available,36,72,17,,,
 ce06a2e2-97fd-46c2-a19d-1dc724d3ead2,acceptancetest.net,available,54,72,15,,,
 f347f9dd-3caf-4e72-bf20-b8e74adc8dcc,acceptant.net,available,78,1,9,,,
 46848447-805d-4004-92c9-85736c159f50,acceptatfacevalue.net,available,56,72,20,,,
-7b7d6c6b-f9f9-4061-b625-35fd95262200,accepting.net,resell,74,3,9,Name Connection Spot LLC,24/11/2020 19:18,24/11/2025 19:18
 08eb1fbd-9fb5-47d5-b88c-5cffdfd0a5d8,acceptingly.net,available,52,68,11,,,
 3b144666-fd75-4a28-87c7-3c01648389e4,acceptors.net,available,36,8,9,,,
 0f6ba267-7111-4fa5-bcc7-15c2147e31d6,acceptperson.net,available,36,72,13,,,
@@ -363,9 +362,11 @@ c54d0614-d108-4ee8-bf02-7b640aa09b5c,accumulating.net,available,42,68,12,,,
 4065fe54-500f-4beb-9e90-6ba6e63ed067,accuracy.net,resell,70,88,8,"Sea Wasp, LLC",24/01/2001 11:33,24/01/2027 11:33
 2245b225-85cb-42e9-9cae-a8ff6f4c90b6,accurst.net,available,40,1,7,,,
 d327adc4-ed29-4099-9065-cd3fdfc9f28e,accusable.net,available,48,72,9,,,
+e0047347-2e23-40b6-bdff-479556fbc041,accusation.net,available,66,2,10,,,
 670bb79b-04f3-4e97-a5d6-3a6c8e6eb810,accusative.net,available,72,1,10,,,
 81340b1d-5936-4e57-9f9a-81636b7714e0,accusativecase.net,available,58,72,15,,,
 f0070c4b-3726-4ed4-bbd8-a4badc0e3469,accusatory.net,available,44,1,10,,,
+d5e43c27-7f6b-4923-8320-be364d253f3e,accuser.net,resell,66,3,7,"GoDaddy.com, LLC",15/07/2005 18:17,15/07/2026 18:17
 6524530a-0317-4c71-bbe0-e5021bdc6d0c,accusive.net,available,40,1,8,,,
 2a0affe5-c44b-4614-8a39-7b579f241486,accustom.net,available,76,76,8,,,
 22fb4607-2831-4ec2-8ea5-3dab481dec8e,accustomed.net,available,72,1,10,,,
@@ -507,7 +508,7 @@ c39e8cef-c30a-46f7-80f9-2d5164158fd6,actionpotential.net,available,58,88,16,,,
 3a05bc6e-7961-4983-a5e2-c92ec532d0f9,actionstations.net,available,54,72,15,,,
 ae00cf61-33ca-4bba-a322-051f4a904592,actionteaching.net,available,54,72,15,,,
 e6bf96a0-0d18-4e80-9c16-619f3c37a064,actionword.net,available,56,76,11,,,
-8d04b586-45b2-45d4-bb45-c257bb8ba6dc,activated.net,resell,74,9,9,Dynadot Inc,08/04/1998 04:00,07/04/2026 04:00
+8d04b586-45b2-45d4-bb45-c257bb8ba6dc,activated.net,resell,74,8,9,Dynadot Inc,08/04/1998 04:00,07/04/2026 04:00
 201ce510-fd9e-4481-be93-596da0115a47,activating.net,resell,68,3,10,"Spaceship, Inc.",01/02/2004 19:22,01/02/2026 19:22
 12278735-5c76-4544-98b9-dae94aff30e9,activator.net,resell,54,84,9,Dynadot Inc,20/01/2003 07:44,20/01/2026 07:44
 3625d9f0-b684-4f46-a903-e7882f1f993f,activecouples.net,available,50,8,14,,,
@@ -560,9 +561,9 @@ c1d23cab-3324-40c3-bed8-8772f77c6f06,adagios.net,available,40,12,7,,,
 0f2fc3a2-bb81-4d1a-ba2b-589918bdb6b6,AdamsCounty.net,resell,46,20,12,"GoDaddy.com, LLC",08/03/1999 05:00,08/03/2026 05:00
 054d8e09-2794-492c-ad12-cfaf0023d9d9,adaptableness.net,available,58,72,13,,,
 c25d7781-328f-4db6-84b2-4b5735f941c3,adaptations.net,resell,42,28,11,Dynadot Inc,29/07/2002 23:49,29/07/2026 23:49
-365961ea-9e8b-430a-90b9-ed954af5b79a,adaptative.net,available,72,3,10,,,
+365961ea-9e8b-430a-90b9-ed954af5b79a,adaptative.net,available,72,1,10,,,
 80eb3aca-57ab-4867-adcf-78037a7c28ac,adaptativeness.net,available,58,72,14,,,
-d6cae67a-1195-4da9-9f6d-d5725ecb1e99,adapted.net,resell,74,7,7,"eNom, LLC",07/05/2004 18:47,07/05/2026 18:47
+d6cae67a-1195-4da9-9f6d-d5725ecb1e99,adapted.net,resell,74,6,7,"eNom, LLC",07/05/2004 18:47,07/05/2026 18:47
 4102a38f-bdd5-43c5-b4ab-cecbef96d4f4,adaptedness.net,available,58,72,11,,,
 1f9e6324-5449-4901-8a3b-22227d24ea36,adaptivebehavior.net,available,40,12,17,,,
 b8b0414e-cda0-498c-bb7f-6f031a3403b0,adaptivebehaviour.net,available,40,8,18,,,
@@ -570,11 +571,12 @@ b8b0414e-cda0-498c-bb7f-6f031a3403b0,adaptivebehaviour.net,available,40,8,18,,,
 0a69e78a-de38-405b-820b-889265e7d205,adaptiveness.net,available,58,72,12,,,
 03f2ca2a-3065-40f8-b2f1-e73b1e69fae2,ADAT.net,resell,60,80,4,Dynadot Inc,27/10/2004 18:15,27/10/2025 18:15
 de6c5c99-480d-4e4d-878e-7a58f916081f,adblindness.net,available,52,4,12,,,
-e10c6293-36a1-42a4-a3f7-f4438819b3c6,add.net,resell,78,92,3,"GoDaddy.com, LLC",06/11/1997 05:00,05/11/2026 05:00
+e10c6293-36a1-42a4-a3f7-f4438819b3c6,add.net,resell,78,29,3,"GoDaddy.com, LLC",06/11/1997 05:00,05/11/2026 05:00
 e6eeb27a-d4b1-44fc-b018-abc00de025b0,addable.net,available,76,3,7,,,
 a390c8c6-422f-45fc-9e54-628e1b5f6e9d,addictively.net,available,42,72,11,,,
 b98e9937-6a99-42d3-a23e-692597ccc8c7,adding.net,resell,76,84,6,"GoDaddy.com, LLC",25/12/1999 07:23,25/12/2025 07:23
 8ec41c42-146e-4f15-8fe3-1ed1f51668a2,additament.net,available,52,72,10,,,
+c3799c52-ddb4-499e-9655-d614015172c2,additional.net,resell,90,8,10,Whois Corp.,09/05/2000 10:45,09/05/2026 10:45
 ace44a54-a0f2-4aaa-ac24-e9a430a5ab49,additionally.net,resell,44,68,12,"eNom, LLC",08/10/2006 03:41,08/10/2025 03:41
 8a24af28-6ec3-40bb-be10-cef8b84c0076,additionary.net,available,52,72,11,,,
 8a252130-2906-4a94-a95d-30eb45ad15fc,additionsign.net,available,56,72,13,,,
@@ -610,8 +612,8 @@ afcaa15a-ca8b-4f6e-84fe-a1fe93a7c30d,adenotomic.net,available,48,72,10,,,
 2ac38986-c6f2-47e8-aa82-23908b10f4a3,adenotomy.net,available,52,72,9,,,
 108b465d-5c16-40ff-81fd-46d2c2901aca,adenous.net,available,52,72,7,,,
 a6051bda-5d47-441c-8fac-d9c8a01a2f2e,adeptness.net,available,70,72,9,,,
-1f794158-6946-478c-97c8-032f474a6b3b,adequate.net,resell,94,10,8,Rabbitsfoot.com LLC d/b/a Oxygen.nyc,29/04/1999 08:27,29/04/2026 08:25
-de90322f-fd16-4fd4-a0b2-6127e7f0b53c,adequately.net,available,62,76,10,,,
+1f794158-6946-478c-97c8-032f474a6b3b,adequate.net,resell,94,8,8,Rabbitsfoot.com LLC d/b/a Oxygen.nyc,29/04/1999 08:27,29/04/2026 08:25
+de90322f-fd16-4fd4-a0b2-6127e7f0b53c,adequately.net,available,62,3,10,,,
 6a3f6fed-9055-416c-b590-263c53416c0d,adh.net,resell,58,84,3,Dynadot Inc,01/05/2000 10:58,01/05/2026 10:58
 60fa5204-5a1a-4576-8bcb-3a201d271b7c,adhocery.net,available,52,72,9,,,
 3bcd1432-c3a6-4a10-95a5-02ad619960de,adhocness.net,available,52,72,10,,,
@@ -658,7 +660,7 @@ f04eeb80-5c22-4230-b912-909fae3771dd,adoptable.net,resell,80,4,9,EuroDNS S.A.,18
 cf4408b8-a136-4466-8e53-a3c464f4e4aa,adoptive.net,resell,62,2,8,Squarespace Domains II LLC,14/12/2022 20:12,14/12/2025 20:12
 6b23507e-a0b0-42d7-852a-3e9c1e96ec06,adoptivefather.net,available,68,72,15,,,
 f707899d-29c8-467f-a91b-63ed0e12db01,adoptivemother.net,available,68,72,15,,,
-9f3e0a77-3cd1-4abe-a16e-66923ed3b460,adorable.net,resell,78,9,8,"GoDaddy.com, LLC",20/02/2004 19:11,20/02/2026 19:11
+9f3e0a77-3cd1-4abe-a16e-66923ed3b460,adorable.net,resell,78,7,8,"GoDaddy.com, LLC",20/02/2004 19:11,20/02/2026 19:11
 deac526e-bc46-423c-a4a2-11e27468480e,adore.net,resell,70,88,5,"GoDaddy.com, LLC",27/06/2004 18:33,27/06/2026 18:33
 e5cee267-68d2-4c82-b7d2-f363d1e988af,adoring.net,resell,90,3,7,"NameCheap, Inc.",18/04/2000 17:53,18/04/2026 17:53
 894bed15-6407-4773-a57a-d9cfdfc76c57,adoringly.net,available,60,72,9,,,
@@ -669,7 +671,7 @@ b13dd600-ef87-4254-b081-a5e9ac43ba00,adrenal.net,resell,78,4,7,"eNom, LLC",21/12
 514c47b1-6648-414c-8626-82f105e134f3,adrenalgland.net,available,58,72,13,,,
 f6384a41-73c5-478a-bbb6-736e47f00023,adrenalinrush.net,available,76,72,14,,,
 f79140dd-139f-4077-b069-54f0e6f6b919,adrenergic.net,available,74,1,10,,,
-b4c3ddba-b05a-48f2-8ace-05675406f3b5,adroit.net,resell,72,14,6,Dynadot Inc,24/02/2012 19:15,24/02/2026 19:15
+b4c3ddba-b05a-48f2-8ace-05675406f3b5,adroit.net,resell,72,13,6,Dynadot Inc,24/02/2012 19:15,24/02/2026 19:15
 2d68a024-a3b3-4899-83de-3c37114291bc,adroitly.net,available,54,76,8,,,
 b3ebbbc2-5a18-4a90-9e76-f010d15c4e67,adroitness.net,available,66,72,10,,,
 92b27ad9-99c7-4a6b-86d7-5907bc8702f2,adscript.net,available,94,3,8,,,
@@ -689,12 +691,13 @@ a5e8d128-ff78-419a-913c-37275a5f0b3d,adultlike.net,available,52,72,9,,,
 4ea1e580-0c67-4671-9c0b-f66a513fe918,advaloremtaxes.net,available,34,8,16,,,
 f3ed005e-73b2-4737-994d-d336ec6c4b80,advancedirective.net,available,56,72,17,,,
 a128cbd7-2c50-4b33-93f8-2a18cb09a845,advanceguard.net,available,56,72,13,,,
-01b0a459-ecdf-4d2c-a110-12d8824f2d4b,advantage.net,resell,98,84,9,Dynadot Inc,23/10/1997 04:00,22/10/2026 04:00
+01b0a459-ecdf-4d2c-a110-12d8824f2d4b,advantage.net,resell,98,23,9,Dynadot Inc,23/10/1997 04:00,22/10/2026 04:00
 33aa9a4f-ff21-460b-b833-91a5f40884a3,advantageground.net,available,52,72,16,,,
 0d355bea-eeca-4aa2-bcf3-76c3367605c3,advantageous.net,resell,64,76,12,"GoDaddy.com, LLC",09/05/2001 17:12,09/05/2026 17:12
 92228847-fead-4b52-bfba-f6d9e1110bad,advantageously.net,available,56,72,14,,,
 6544608a-c894-4099-874a-f88ae26b1903,advantageousness.net,available,64,72,16,,,
 49320974-3557-4fd2-9cbf-1020baf763cb,advective.net,available,50,1,9,,,
+c8881fa5-ec98-48b8-93f1-541790aa7ac6,adventure.net,resell,94,36,9,"GoDaddy.com, LLC",15/05/1995 04:00,16/05/2026 04:00
 95aa3e7a-901c-40b4-9eb7-439a2d15cb1b,adventuregame.net,available,62,80,14,,,
 5ab213fb-8960-4257-9cc8-ef4496179e18,adventurers.net,resell,46,28,11,"NameSilo, LLC",29/05/2005 18:12,29/05/2026 18:12
 690673c2-6ee5-4f53-958e-b54cf05ffc03,adventuresport.net,resell,64,72,15,1API GmbH,30/12/2001 01:18,30/12/2025 01:18
@@ -728,7 +731,7 @@ c267e20e-1a46-43c7-af93-15c670775f96,aerate.net,resell,68,80,6,Dynadot Inc,23/06
 cba830c8-b96f-4688-b39b-7ec335c115cd,aerialsurvey.net,resell,58,80,13,"GoDaddy.com, LLC",21/12/2017 22:30,21/12/2025 22:30
 30ee9a02-82bc-4991-bb68-e08b24860963,aeriferous.net,available,46,1,10,,,
 dc9dc1a1-b29c-44a4-82fa-cd73dbb12b56,aeriform.net,available,56,3,8,,,
-fb5293d6-4ef9-4be5-b347-5d4af7ef915a,aerobic.net,resell,74,5,7,Dynadot Inc,17/08/2022 18:01,17/08/2026 18:01
+fb5293d6-4ef9-4be5-b347-5d4af7ef915a,aerobic.net,resell,74,4,7,Dynadot Inc,17/08/2022 18:01,17/08/2026 18:01
 5a93a70d-94dd-4c8a-a170-8aa41ddd1caa,aerobically.net,available,44,72,11,,,
 df33339a-a1dc-4f8e-989b-efcb75e172d6,aerobicize.net,available,62,72,10,,,
 87a0ed3d-c790-4f48-a3ae-53411a560248,aerobiotic.net,available,64,1,10,,,
@@ -747,13 +750,13 @@ ca579aad-0188-475e-abb3-e1804297b3e2,aetiologic.net,available,46,1,10,,,
 9d148d6f-ba72-4487-9064-ecd5787630da,afairfew.net,available,38,72,10,,,
 2e5f2f91-a8c0-48be-9cf7-12e5e67176e8,afebrile.net,available,64,1,8,,,
 f41d9149-6d81-4666-b0b6-7f4fc248dfc0,affably.net,available,58,72,7,,,
-5caa2e14-3f13-45ed-b256-a9bebe2308cf,affect.net,resell,97,76,6,"OnlineNIC, Inc.",05/05/2001 10:38,05/05/2026 10:38
+5caa2e14-3f13-45ed-b256-a9bebe2308cf,affect.net,resell,97,10,6,"OnlineNIC, Inc.",05/05/2001 10:38,05/05/2026 10:38
 f8acf6c2-bd17-4390-88b0-9ffe39aa0d05,affectioned.net,available,60,72,11,,,
 c57629c1-add5-4861-abb5-e01896c6d835,affections.net,resell,58,12,10,IONOS SE,16/11/2024 09:52,16/11/2025 09:52
 2abf47e6-99e6-4de2-bbe0-729b84efaa61,afferent.net,available,70,3,8,,,
 7dc9f1a4-00ff-43bf-b64c-b24ab7342ef0,affiance.net,available,85,76,8,,,
 98316a08-c7ce-4c2a-8285-35232e2f1420,afficionados.net,available,48,8,12,,,
-bf6c0b32-4090-47f5-a3d9-de4ba1b6a450,affidavit.net,resell,68,84,9,"GoDaddy.com, LLC",28/01/2000 10:55,28/01/2026 10:55
+bf6c0b32-4090-47f5-a3d9-de4ba1b6a450,affidavit.net,resell,68,3,9,"GoDaddy.com, LLC",28/01/2000 10:55,28/01/2026 10:55
 7521f310-d2e8-4e98-908d-44396a5d9622,affiliation.net,resell,74,76,11,"Sav.com, LLC",06/11/1998 05:00,05/11/2025 05:00
 5f44d1ee-81d1-4b82-9379-897a4070f3b9,affinal.net,available,50,2,7,,,
 08682f3b-96b7-4c3e-aaf0-5a9fbaff8301,affinecombination.net,available,54,72,18,,,
@@ -813,10 +816,10 @@ b3b73017-9449-47ac-a0e5-597e6d0d2fb0,againstnature.net,available,36,76,14,,,
 199b7ae7-5ca6-4573-9a51-b85ce1bcd299,agape.net,resell,94,27,5,Tucows Domains Inc.,20/11/2000 13:48,20/11/2030 13:48
 c461dce9-d6e2-4de2-bd30-0f03b411675c,Agatha.net,resell,56,92,6,Epik LLC,12/01/2000 16:38,12/01/2027 16:38
 32420856-7a85-4b0f-b4f0-27ebdb53179b,agaze.net,available,56,2,5,,,
-3d7a357a-4db0-43e9-b276-ff287c667c30,aged.net,resell,90,8,4,Dynadot Inc,29/07/2002 23:48,29/07/2026 23:48
+3d7a357a-4db0-43e9-b276-ff287c667c30,aged.net,resell,90,7,4,Dynadot Inc,29/07/2002 23:48,29/07/2026 23:48
 41e0eb12-ca04-4e1c-aa4d-ae0ea313dab4,agedifference.net,available,58,72,14,,,
 34924f12-1c4e-4945-9bcc-f14acd6981d4,agegap.net,resell,62,72,7,GoDaddy Online Services Cayman Islands Ltd.,19/12/2017 04:25,19/12/2032 04:25
-3f1d3ddb-3f23-4a66-b640-7f93440b104b,ageing.net,resell,86,4,6,"Sea Wasp, LLC",12/12/2000 11:39,12/12/2026 11:39
+3f1d3ddb-3f23-4a66-b640-7f93440b104b,ageing.net,resell,86,3,6,"Sea Wasp, LLC",12/12/2000 11:39,12/12/2026 11:39
 85733dba-86e6-420c-89be-916762d70e77,ageless.net,resell,70,21,7,Dynadot Inc,18/04/2001 10:40,18/04/2026 10:40
 01f0c098-592c-44d0-a854-59a674d7fffa,agentlike.net,available,52,72,9,,,
 37b5f917-f54c-44d1-8e9e-1b352a8767b3,agentnoun.net,available,54,72,10,,,
@@ -829,7 +832,6 @@ e4cc11bc-b1ef-472a-88c5-387996cd4462,agitative.net,available,52,1,9,,,
 1592f2a3-a4c9-4d32-b783-71be062fcd2b,agleam.net,available,60,1,6,,,
 7388d910-705d-4000-a6dd-33e8a16ed059,aglycone.net,available,56,72,8,,,
 4f93d691-ff6c-4a10-8c1b-5f897abacf96,agnatic.net,available,58,1,7,,,
-c2ec738c-495e-45e3-96eb-206aca888a4f,agnostic.net,resell,84,8,8,"Network Solutions, LLC",14/10/2008 18:00,14/10/2025 18:00
 575ad728-9c41-4c8a-8286-40ff5d35c736,agnostical.net,available,58,1,10,,,
 7036e6f0-43f7-4091-bfc7-960096910004,agonadal.net,available,54,1,8,,,
 6078d209-7fc0-440e-a03e-63c9b9fddef4,agonal.net,available,58,1,6,,,
@@ -872,10 +874,11 @@ ff66ca07-9c49-4278-98af-41ac46c48fad,ahhamoment.net,available,62,76,12,,,
 5f058c4b-594a-4d86-a904-fdab0d522ee2,ahootandaholler.net,available,40,4,19,,,
 7dd6f948-1867-462a-989c-197f36fc2fd9,ahorse.net,available,46,2,6,,,
 c382b6cd-9a33-49a4-9b39-d80728c3a75c,ahorseback.net,available,52,1,10,,,
+36a4d272-f04a-46ce-8849-e51584bbcc16,aids.net,resell,66,9,4,"eNom, LLC",09/03/2000 11:38,09/03/2026 10:38
 2192dc8f-ff6d-4f2c-9fd3-82c8e45a3672,AIDSribbon.net,available,68,72,11,,,
 6e71199e-92a0-4b71-8001-b36a7c5f656f,aimfor.net,resell,44,72,7,"GoDaddy.com, LLC",21/12/2006 18:30,21/12/2025 18:30
 bc71cdc6-92d8-410f-a342-59eeffd201ee,aims.net,resell,44,52,4,"GoDaddy.com, LLC",08/09/1995 04:00,07/09/2026 04:00
-cc260c1b-ff5e-4110-bb70-0d3e5ac57033,air.net,resell,84,96,3,Dynadot Inc,23/10/1997 04:00,22/10/2026 04:00
+cc260c1b-ff5e-4110-bb70-0d3e5ac57033,air.net,resell,84,41,3,Dynadot Inc,23/10/1997 04:00,22/10/2026 04:00
 1d168489-3de7-4998-99d1-45997a9c0fb0,airan.net,resell,62,84,5,Automattic Inc.,30/05/2022 18:24,30/05/2027 18:24
 da88a8e9-d15e-4292-be8d-2b00cb46fce2,airattack.net,available,54,72,10,,,
 fd6dcef2-4ccc-4270-8f77-2859e1efbf2a,airbagged.net,available,54,8,9,,,
@@ -949,6 +952,7 @@ b3de8f0a-36b5-4d09-a28f-e3e346c1a04d,airtram.net,available,68,76,7,,,
 88d6ec65-871f-496c-8f05-f4bb6e3ca20d,Aja.net,resell,52,92,3,1API GmbH,22/09/2003 18:18,22/09/2032 18:18
 08eb98ec-448d-46d4-bf9e-1748b641ebed,Akubrahat.net,available,58,72,10,,,
 44ffbb4e-ab58-4360-9d89-0fb2f3c64320,alabamian.net,available,74,72,9,,,
+6a9a7bbe-d262-4f1b-b60b-a2638a925bc5,aladdin.net,resell,76,22,7,DropCatch.com 1140 LLC,03/08/2021 18:00,03/08/2026 18:00
 c5d87a7a-c1b5-490a-8569-101b25990f9f,alanpaton.net,available,60,72,10,,,
 80d63b8d-ddce-4997-86aa-5aebb5d9aaa0,alarmbell.net,available,62,72,10,,,
 76c867a8-69b7-4045-a89a-03098bd890fb,alarmed.net,resell,52,3,7,"Domainclub.com, LLC",21/12/2002 17:22,21/12/2025 17:22
@@ -999,7 +1003,7 @@ b13fde95-9288-4e58-b411-1c72c82f4bb0,algolagnic.net,available,48,1,10,,,
 9ab58184-787f-4e4b-bec7-c1a35114d84a,algonkian.net,available,70,1,9,,,
 2b360e47-b9d0-4290-8202-58c05b89a8ff,algonquian.net,available,70,1,10,,,
 c8081c6b-b17f-49a7-9707-08680821257d,algophobic.net,available,46,1,10,,,
-2007a564-0cee-465d-b5cb-a4984d05f89c,algore.net,available,70,80,7,,,
+2007a564-0cee-465d-b5cb-a4984d05f89c,algore.net,available,70,4,7,,,
 e1ff4af3-e65c-4935-a199-40a7f202d3f9,alhajia.net,available,60,72,7,,,
 cd082e8b-f6b7-4fe6-961c-6e56192a30d5,alhambra.net,resell,68,96,8,Porkbun LLC,17/10/1998 04:00,16/10/2025 04:00
 b4fda5c5-9db0-4810-8130-91556643238a,AliceinWonderland.net,resell,78,28,19,GoDaddy Online Services Cayman Islands Ltd.,08/01/2009 19:56,08/01/2031 19:56
@@ -1012,6 +1016,7 @@ f23416c4-4600-4d67-ae39-53f48295c766,aligner.net,resell,60,84,7,"TurnCommerce, I
 6ba4713e-fe09-4767-8e37-802538061182,Alija.net,available,56,72,5,,,
 56ddc377-c8b8-4c3d-b50f-0ee20a3ca1da,Alijah.net,available,56,72,6,,,
 2f62c458-4e20-446f-97dd-9cfdd7fd741c,alimentarycanal.net,available,60,72,16,,,
+bcad8367-ba74-4e21-bd48-106e33435d3a,alimony.net,resell,60,5,7,"Network Solutions, LLC",22/12/1999 02:07,22/12/2025 02:07
 7b1c3625-73e8-46d2-b3f2-f2dfd797f405,aliphatic.net,available,64,1,9,,,
 1f146fbc-b460-45cf-bb07-8eeb2b191070,aliquot.net,available,96,3,7,,,
 a262cd09-84f8-423d-9acb-75244894c7f2,alittlematter.net,available,46,72,15,,,
@@ -1079,12 +1084,14 @@ f2d83307-9c4d-44cf-a954-4cae5a8da194,allendsup.net,available,56,72,11,,,
 c709490c-f3dd-42e7-991c-e039927260fe,Allenscrew.net,available,58,72,11,,,
 47a26ab9-02a0-4dca-b3af-e15225ca5b6d,allentown.net,resell,50,72,9,Dynadot Inc,24/01/2001 11:34,24/01/2026 11:34
 22969e5a-ecae-4efc-a3fe-25fa303ca5ca,allergenic.net,resell,54,1,10,"GoDaddy.com, LLC",17/08/2007 18:00,17/08/2026 18:00
-49474bee-b2df-4674-a26d-f1dfa638c8b5,allergist.net,resell,64,80,9,Tucows Domains Inc.,28/04/2003 18:03,28/04/2026 18:03
+49474bee-b2df-4674-a26d-f1dfa638c8b5,allergist.net,resell,64,3,9,Tucows Domains Inc.,28/04/2003 18:03,28/04/2026 18:03
+1d9438e3-081b-4dcd-8561-bc9d948a4df5,allergy.net,resell,72,14,7,"Spaceship, Inc.",10/12/1996 05:00,09/12/2025 05:00
 a86f9bfd-cc75-4b7c-b8bd-5a4e3a2cf712,alleverything.net,available,52,76,14,,,
 db53f430-1b3b-48d0-9579-94d556664cd2,alleviated.net,available,66,1,10,,,
 5a78820f-280b-4c00-948a-e40116143cc0,allexpense.net,available,50,72,11,,,
 ba107b49-a983-4d5f-b88e-67f25ca992d9,allexpensespaid.net,available,60,72,17,,,
 932e6ddd-de23-4893-9952-c65d19b012ba,alleyesandears.net,available,52,72,17,,,
+2abcd5c2-22bd-4745-bced-9040febcf987,alleyway.net,resell,58,3,8,Dynadot Inc,25/11/2011 11:38,25/11/2025 11:38
 39f86906-a328-4f9f-8cda-11ae3b799664,allfalldown.net,available,48,72,13,,,
 bb0c71fe-f718-43a9-b2cb-3b820ffeaee2,allfartandnopoo.net,available,62,72,19,,,
 a5dc13b1-d327-4591-96be-9e7e5c52f231,allfartandnoshit.net,available,62,72,20,,,
@@ -1137,7 +1144,7 @@ d5416c89-c57f-4d21-81e5-6c7f4abfad8e,allopathic.net,available,54,1,10,,,
 b87ed68e-e642-414b-ba4b-5f1dae821861,allotment.net,resell,62,80,9,Dynadot Inc,25/12/2021 19:17,25/12/2025 19:17
 4e4de532-7687-4d39-a0bb-8e890a8e998b,allotransplant.net,available,80,72,14,,,
 32d6dd6f-54dd-469b-a9af-f0769bd4b4c2,allotropic.net,available,46,1,10,,,
-12d0e658-9d0e-4d9c-8da7-d8e79f7c18da,allout.net,resell,84,9,7,"GoDaddy.com, LLC",24/12/2002 13:55,01/07/2026 03:59
+12d0e658-9d0e-4d9c-8da7-d8e79f7c18da,allout.net,resell,84,8,7,"GoDaddy.com, LLC",24/12/2002 13:55,01/07/2026 03:59
 b5c5525a-648c-44c7-8b2c-6682b0fc147d,alloveragain.net,available,56,76,14,,,
 e26d61a1-0dd3-4874-8149-61958a5b6dde,alloverishness.net,available,52,72,15,,,
 e24e4388-b388-46d6-ab76-4695382415b7,alloverness.net,available,54,72,12,,,
@@ -1186,7 +1193,7 @@ e79f32f3-5321-4f99-ba45-8fb7cbbc7f8b,allthere.net,available,44,76,9,,,
 a294e1ea-51c3-4222-a1c5-9b85d8f834d8,alltherest.net,available,44,16,12,,,
 8263de99-b6a8-4f95-a036-4ffa61c201d8,allthesudden.net,available,48,72,14,,,
 064785e4-8208-4aee-bea5-c70e60e496db,allthetime.net,available,56,72,12,,,
-55399f34-936b-48c5-90c3-7d092b80a274,alltime.net,resell,72,11,8,"Name.com, Inc.",22/06/1998 04:00,21/06/2026 04:00
+55399f34-936b-48c5-90c3-7d092b80a274,alltime.net,resell,72,10,8,"Name.com, Inc.",22/06/1998 04:00,21/06/2026 04:00
 c19176a2-b467-4882-9ce2-3a5eb166a09c,alltoofamiliar.net,available,36,72,16,,,
 9402b80f-eab7-4a7e-8e3c-669d2edbe7f2,alltoone.net,available,44,72,10,,,
 11fa3408-8637-4a57-b81a-9b2bc7af7303,alltoowell.net,available,44,76,12,,,
@@ -1196,7 +1203,7 @@ a99112f4-f2b9-469d-a744-e2d4f89fd738,alludes.net,available,36,12,7,,,
 a773f1c0-601f-4656-8fda-2aabeb9010f6,alluding.net,available,32,8,8,,,
 3daca512-14d4-4cc3-9e1c-e5f6ba02e397,allupweight.net,available,54,72,13,,,
 44e9964c-0ead-4ab7-bb67-a69bcbb5a850,allupwith.net,available,36,72,11,,,
-6d93abe1-f26b-4c92-9fd7-84e429bc5558,alluring.net,resell,88,5,8,"Sav.com, LLC",18/01/2001 11:31,18/01/2026 11:31
+6d93abe1-f26b-4c92-9fd7-84e429bc5558,alluring.net,resell,88,4,8,"Sav.com, LLC",18/01/2001 11:31,18/01/2026 11:31
 8a85a243-e047-414e-925e-e8738c607415,alluringly.net,available,48,72,10,,,
 c009f968-e696-4aab-a032-a2c752f6674a,allusions.net,resell,32,16,9,"GoDaddy.com, LLC",01/06/2001 01:55,01/06/2026 01:55
 9cce3e74-36b2-47a4-8556-90c093560b1f,alluvialfan.net,available,56,72,12,,,
@@ -1223,7 +1230,7 @@ ba9ac6c6-314d-4b24-802b-01fdcaf7f5a5,almondpaste.net,available,66,72,12,,,
 b4e4db18-16f2-4230-9ab5-c6ce90405e55,almondpotato.net,available,66,72,13,,,
 49ccbe42-0a7e-4b78-8aae-4d2579e8b9a7,almondshaped.net,available,56,72,13,,,
 f161439e-6274-4d86-9eb9-8541b8c8f1e5,almondtofu.net,available,66,72,11,,,
-824a9adc-71e5-477d-9d1e-d24afdabe512,almost.net,resell,92,92,6,"NameCheap, Inc.",13/06/2003 18:18,13/06/2026 18:18
+824a9adc-71e5-477d-9d1e-d24afdabe512,almost.net,resell,92,15,6,"NameCheap, Inc.",13/06/2003 18:18,13/06/2026 18:18
 7b4d865e-281a-4b91-a376-5707a9af1ed3,almostall.net,available,38,72,10,,,
 6f0a3baf-2f6c-4d82-931b-b1491204fa7c,almosteverywhere.net,available,50,76,17,,,
 44b7205c-b816-4b19-b66b-2821607ca5a4,almostsurely.net,available,50,72,13,,,
@@ -1366,7 +1373,6 @@ c6f2a78c-df08-42b0-8bfb-170321d2f44d,alternativism.net,available,56,72,13,,,
 bed600d4-47a0-4265-b699-b5c783435f7d,altitudinous.net,available,54,72,12,,,
 288e5f04-8783-47ae-aa60-9664def008f3,altogether.net,resell,76,6,10,Dynadot Inc,30/06/2022 18:22,30/06/2026 18:22
 b8b89110-d748-445b-9d81-67c06864443e,altricial.net,available,68,1,9,,,
-6ae311ed-c56e-43fa-9d8a-130b22b09cfc,altruistic.net,resell,74,6,10,"GoDaddy.com, LLC",01/10/2015 10:15,01/10/2025 10:15
 db5b8f49-f892-4afe-8b3c-9e79ab9d3f11,altruistically.net,available,61,72,14,,,
 985f3bdc-7b14-4ca4-95bd-b7ebfddbed8b,altweekly.net,available,54,72,10,,,
 7e9e17ea-145f-4b31-8dfa-c55ebe6ab8b8,alular.net,available,54,2,6,,,
@@ -1379,7 +1385,7 @@ db5b8f49-f892-4afe-8b3c-9e79ab9d3f11,altruistically.net,available,61,72,14,,,
 202da594-fda3-42b7-ad27-b7e90d50fc8e,alveolar.net,available,80,1,8,,,
 da63a44e-5d8e-4050-97c4-f226bfa573cd,alveolate.net,available,74,1,9,,,
 5bfdfe88-8b1e-4575-9e24-3180c937400a,Alvia.net,resell,56,72,5,"TurnCommerce, Inc. DBA NameBright.com",20/08/2009 18:48,20/08/2026 18:48
-a14dad0f-c3c7-4cf0-8d4c-aa3f9d0ed166,always.net,resell,80,88,6,CSL Computer Service Langenbach GmbH d/b/a joker.com,01/08/1997 04:00,31/07/2026 04:00
+a14dad0f-c3c7-4cf0-8d4c-aa3f9d0ed166,always.net,resell,80,27,6,CSL Computer Service Langenbach GmbH d/b/a joker.com,01/08/1997 04:00,31/07/2026 04:00
 1c95d1dc-65ca-443e-80b6-1e694e676419,Alyvia.net,resell,62,72,6,Epik LLC,11/05/2010 18:35,11/05/2026 18:35
 4ff43843-7ce2-4320-a549-5ee74e8b94c1,AMA.net,resell,54,96,3,"GoDaddy.com, LLC",26/09/1998 04:00,25/09/2025 04:00
 d277bbf1-1c11-4333-9e48-9bff7733da5b,amalgam.net,resell,82,88,7,"Sav.com, LLC",16/04/2001 10:51,16/04/2026 10:51
@@ -1388,7 +1394,7 @@ fcfd1f64-aac4-4a60-ae05-730d953b5379,amarettosour.net,available,62,72,13,,,
 ea1919b1-1c00-47d5-9615-b38d4f507465,amateurism.net,available,56,72,10,,,
 988944ba-8020-49a8-97ac-01531cbf617a,amateurnight.net,available,66,72,13,,,
 56da0c65-e59a-4b11-8162-0025b3c349a6,amaurotic.net,available,46,1,9,,,
-e4717b0f-5ee4-4483-b0f1-07325d30bae7,amazed.net,resell,72,5,6,"Network Solutions, LLC",02/12/1999 21:05,02/12/2025 21:05
+e4717b0f-5ee4-4483-b0f1-07325d30bae7,amazed.net,resell,72,6,6,"Network Solutions, LLC",02/12/1999 21:05,02/12/2025 21:05
 edc02ca8-ddfd-442a-8201-04af3c9e6ec8,amazedly.net,available,52,72,8,,,
 88f0539b-bbcc-4d84-b2fd-9ee03086989d,amazement.net,resell,72,76,9,DropCatch.com 511 LLC,24/03/2024 18:17,24/03/2026 18:17
 eb63daad-f9c0-4581-8417-17fe0b84f54a,Amazonianantshrike.net,available,60,72,19,,,
@@ -1490,7 +1496,7 @@ f821374c-891e-4796-825c-3be72c02685a,amoebous.net,available,48,1,8,,,
 924d3b35-3585-4e5f-87ca-b1a08d388fdc,amoristic.net,available,46,1,9,,,
 44dbb157-9937-42fa-9e4b-e32c23e46ee7,amorously.net,available,50,72,9,,,
 443c0c8b-3c64-4d4c-a8b9-790490b43fa3,amortise.net,available,64,72,8,,,
-129ef6a3-1c8c-4eb7-9cc0-8c2b0688c4e0,amount.net,resell,102,80,6,DropCatch.com 1404 LLC,16/04/2020 18:33,16/04/2026 18:33
+129ef6a3-1c8c-4eb7-9cc0-8c2b0688c4e0,amount.net,resell,102,6,6,DropCatch.com 1404 LLC,16/04/2020 18:33,16/04/2026 18:33
 ae28df59-5f02-4a0d-819c-8a3689858c5f,ampere.net,resell,64,84,6,"GoDaddy.com, LLC",24/02/2000 12:50,24/02/2030 12:50
 8fba918a-d4a1-47fe-a4fa-a597750c1be0,amphibiouscar.net,available,64,72,14,,,
 c0d4481a-7d16-47ab-ba57-7ff8638af1db,amphibiously.net,available,44,72,12,,,
@@ -1531,7 +1537,7 @@ fca807a4-6fbc-41ab-a0a2-d42368b04b49,analogise.net,available,56,72,9,,,
 d44adee0-327d-486b-9fdf-95f69450500d,analoguehole.net,available,56,72,13,,,
 913c26ea-3a86-48d2-a138-a345ff7840eb,analoguewatch.net,available,68,68,14,,,
 b133bdf8-2fa2-4cb2-8690-d0dffaec51f8,analogwatch.net,available,68,72,12,,,
-bfaac374-31b4-438a-8196-1b424d51dc13,analyst.net,resell,82,84,7,Dynadot Inc,23/02/2000 11:38,23/02/2026 11:38
+bfaac374-31b4-438a-8196-1b424d51dc13,analyst.net,resell,82,14,7,Dynadot Inc,23/02/2000 11:38,23/02/2026 11:38
 4c4d560b-d9d6-47b5-bc08-cbbce650a618,analystprogrammer.net,available,68,72,18,,,
 68e29151-a2d8-4c7d-85d8-7c5652d8e065,analytes.net,available,36,16,8,,,
 fc28a4e1-971e-44ff-b82f-18ddbb7b392e,analyticalchemistry.net,available,36,72,20,,,
@@ -1591,7 +1597,7 @@ d1de9996-709d-48e0-9f42-a434f6621a53,anecdotic.net,available,50,1,9,,,
 b1a17bb4-9078-4aec-9794-2b4e1533ab74,anecdotist.net,available,56,72,10,,,
 08fa3d67-229c-4459-a66f-482e55fcec9a,anemometer.net,resell,58,72,10,"Spaceship, Inc.",04/12/2014 19:41,04/12/2025 19:41
 14163d9f-54a0-42c7-82cf-269a7f9a0b11,aneroidbarometer.net,available,54,72,17,,,
-069bf92d-f499-4cd9-bb94-acdff503f36b,anesthesia.net,resell,70,80,10,Tucows Domains Inc.,14/08/1996 04:00,13/08/2025 04:00
+069bf92d-f499-4cd9-bb94-acdff503f36b,anesthesia.net,resell,70,11,10,Tucows Domains Inc.,14/08/1996 04:00,13/08/2026 04:00
 d70dec49-b313-4d37-aa4b-19e58b29404c,anesthesiologist.net,resell,56,80,16,"Domain.com, LLC",27/01/1997 05:00,28/01/2027 05:00
 2e064e79-a5c3-4e8c-b134-80e0a5c7005a,anesthetic.net,resell,68,1,10,"GoDaddy.com, LLC",05/03/2025 20:42,05/03/2026 20:42
 094e733a-c1f2-4a21-8ef8-bbe40d619d24,anestric.net,available,48,1,8,,,
@@ -1600,7 +1606,7 @@ d70dec49-b313-4d37-aa4b-19e58b29404c,anesthesiologist.net,resell,56,80,16,"Domai
 4b1303cb-7eb3-44e0-8416-2b6e314fc133,aneurismal.net,available,50,6,10,,,
 4036c008-43a9-40e8-b610-f90974d6b5ad,aneurysmal.net,available,50,2,10,,,
 f5a82a3f-7fc8-4f3d-b947-c08ab8972e89,aneyeforaneye.net,available,46,72,17,,,
-3bd07eac-8f74-45a8-82e1-4725edc91d4a,angelical.net,resell,68,3,9,"GoDaddy.com, LLC",20/05/2012 18:37,20/05/2026 18:37
+3bd07eac-8f74-45a8-82e1-4725edc91d4a,angelical.net,resell,68,1,9,"GoDaddy.com, LLC",20/05/2012 18:37,20/05/2026 18:37
 47dc5ab5-ecb7-4328-b6c2-47ae60131cd1,angelically.net,available,48,72,11,,,
 c34309bd-3e72-4f60-895c-0942c19096b6,anginal.net,available,54,1,7,,,
 48a00232-d81c-45e0-bb03-44b82362ed27,anginose.net,available,50,2,8,,,
@@ -1764,7 +1770,7 @@ b5d6bb3c-b357-408b-9c9e-aaa4319dc5ec,antimutagen.net,available,56,72,11,,,
 f654b3e9-d21c-4fcc-8fcb-24470587884a,antipasto.net,resell,62,72,9,Dynadot Inc,21/02/2002 20:41,21/02/2026 20:41
 29aca85c-3835-46c3-84b0-3d51a4d522ec,antipsychotic.net,resell,76,72,13,Rabbitsfoot.com LLC d/b/a Oxygen.nyc,07/05/2008 10:19,07/05/2026 10:19
 133832c2-e8f1-4d23-a615-6d2fb24d7de5,antiquary.net,resell,68,2,9,"GoDaddy.com, LLC",17/06/2024 19:27,17/06/2026 19:27
-be1740c5-26e8-4643-b5ff-8ff3fbde2c8e,antique.net,resell,72,14,7,"GoDaddy.com, LLC",13/05/1997 04:00,14/05/2026 04:00
+be1740c5-26e8-4643-b5ff-8ff3fbde2c8e,antique.net,resell,72,12,7,"GoDaddy.com, LLC",13/05/1997 04:00,14/05/2026 04:00
 7eb4b226-2772-44c5-b692-96239271a81d,antiquesmarket.net,available,60,72,15,,,
 ab97ca25-6b27-4178-acd8-fa0a69addcfd,antiracism.net,resell,60,40,11,DropCatch.com 1145 LLC,16/03/2019 18:16,16/03/2026 18:16
 5763e60d-8f2f-4b6d-9888-30f976b5cb78,antisectarian.net,available,66,72,14,,,
@@ -1849,13 +1855,13 @@ d63911f4-b046-4d9d-8b33-7a36dd5f3a87,apophyseal.net,available,43,1,10,,,
 85b705dc-cbe5-49a2-8833-59889c4125a4,apothecial.net,available,43,1,10,,,
 2f01ee93-f4dd-4853-9610-1c4bcfd18032,apotropaic.net,available,59,1,10,,,
 9decac8c-f9bf-4db9-b807-510ee54186d2,appalling.net,resell,50,2,9,Dynadot Inc,17/08/2020 18:16,17/08/2026 18:16
-65e4c315-f704-4f85-8769-449525db9c20,apparel.net,resell,98,84,7,Tirupati Domains and Hosting Pvt Ltd.,04/05/1995 04:00,05/05/2026 04:00
+65e4c315-f704-4f85-8769-449525db9c20,apparel.net,resell,98,16,7,Tirupati Domains and Hosting Pvt Ltd.,04/05/1995 04:00,05/05/2026 04:00
 77ea84f6-5178-417a-b379-5355eaa4e856,appareled.net,available,46,1,9,,,
 6011d203-ecf8-4f9e-90e7-6a4326ba4461,apparition.net,resell,61,80,10,"OnlineNIC, Inc.",18/04/2001 10:38,18/04/2026 10:38
-83590107-3f58-4af4-bcc0-a17a33fa4e0c,appeal.net,resell,96,88,6,DropCatch.com 955 LLC,29/01/2019 19:33,29/01/2026 19:33
+83590107-3f58-4af4-bcc0-a17a33fa4e0c,appeal.net,resell,96,14,6,DropCatch.com 955 LLC,29/01/2019 19:33,29/01/2026 19:33
 ef1c535a-33fb-4466-b468-993f91457794,appealingly.net,available,50,72,11,,,
 84795f6d-3d80-4740-af81-bac22756cd1a,appealscourt.net,available,52,72,13,,,
-e3e0c61d-30d2-441a-90b3-45e905be5d48,appearance.net,resell,72,84,10,Dynadot Inc,03/04/2010 18:34,03/04/2026 18:34
+e3e0c61d-30d2-441a-90b3-45e905be5d48,appearance.net,resell,72,7,10,Dynadot Inc,03/04/2010 18:34,03/04/2027 18:34
 837f18b0-095d-4698-ae4e-0dca58745406,appeasable.net,available,46,1,10,,,
 af29a1f2-bb7f-4b01-95cf-4ee2298b38dd,appellant.net,available,64,2,9,,,
 199f9ad7-28d4-411e-a279-b06b917fa8e4,appellatecourt.net,available,52,72,15,,,
@@ -1898,7 +1904,7 @@ cbbd3ab8-c77c-445f-9c80-e28d664218ec,appraisalcost.net,available,56,72,14,,,
 24046871-58a2-484f-9d7d-0574ccc71c18,appraises.net,available,46,4,9,,,
 ac95956c-5dd9-4940-8ad3-101838ff60d7,appreciability.net,available,62,4,14,,,
 0de10c6c-f742-43d9-8d3b-a08936e26ca3,appreciableness.net,available,62,4,15,,,
-a0034cda-1540-4ddc-898e-13ae0e621d69,appreciate.net,resell,84,84,10,"CSC Corporate Domains, Inc.",10/12/1999 05:01,10/12/2025 05:01
+a0034cda-1540-4ddc-898e-13ae0e621d69,appreciate.net,resell,84,9,10,"CSC Corporate Domains, Inc.",10/12/1999 05:01,10/12/2025 05:01
 8907c3e6-d085-4592-a370-cb9e69eecbfd,appreciated.net,resell,66,84,11,"Sea Wasp, LLC",29/06/2004 18:27,29/06/2026 18:27
 94398c9c-3b33-4bc8-9650-3bee298e9b2e,appreciates.net,resell,58,24,11,"GoDaddy.com, LLC",20/05/2006 18:32,20/05/2026 18:32
 79d25566-679e-4310-ac76-f18833acdb22,appreciatingly.net,available,52,72,14,,,
@@ -2133,7 +2139,7 @@ c5b8c56b-49eb-49ab-9340-a05f6bbb31fc,artisanality.net,available,52,4,12,,,
 03f2e15e-97e8-497f-ae14-5bc145666737,artisanry.net,available,52,12,9,,,
 0e1ca16e-4ee5-4c7f-9b56-93768059a292,artisanship.net,available,52,20,11,,,
 b7134336-703a-46ca-8ec8-e246e11164f5,artiste.net,resell,77,80,7,SafeBrands SAS,22/07/1997 04:00,21/07/2026 04:00
-892d7851-9ca8-4606-99a7-5491d2baf40b,artistic.net,resell,78,20,8,"Cosmotown, Inc.",11/05/2017 19:33,11/05/2026 19:33
+892d7851-9ca8-4606-99a7-5491d2baf40b,artistic.net,resell,78,19,8,"Cosmotown, Inc.",11/05/2017 19:33,11/05/2026 19:33
 da92c276-f326-41fa-8fd9-5cc2c0fc7d04,artisticgymnastics.net,available,64,8,19,,,
 b37214f5-e978-4c74-a246-5c94f6fb05ce,artisticlicence.net,available,64,8,16,,,
 324aa18b-3028-4d55-ae11-84ee2c527e43,artisticness.net,available,52,8,12,,,
@@ -2195,7 +2201,7 @@ ab5f0567-77db-4d99-9174-83daa9caba1e,Ashland.net,resell,52,84,7,"DreamHost, LLC"
 054ca745-1149-4aa4-ad8e-ee588d0234e4,Ashleigh.net,resell,54,76,8,Dynadot Inc,07/04/2002 18:28,07/04/2027 18:28
 ef947487-83ff-43ae-bf0c-92439c065a56,ashpan.net,available,60,72,7,,,
 fce3d77c-286f-4031-ac4d-e07a11ad7a52,ashtray.net,resell,86,80,7,Dynadot Inc,06/02/2002 02:44,06/02/2026 02:44
-ae72d158-e4e9-4328-8fcc-e41e62c0a29d,asian.net,resell,82,21,5,"GoDaddy.com, LLC",14/03/1998 05:00,13/03/2026 04:00
+ae72d158-e4e9-4328-8fcc-e41e62c0a29d,asian.net,resell,82,20,5,"GoDaddy.com, LLC",14/03/1998 05:00,13/03/2026 04:00
 4f689833-7118-45ca-bc10-1bf3a55c32f0,Asianist.net,available,60,72,8,,,
 f09248c8-463f-4e43-988a-b2404aba2082,Asianization.net,available,52,8,12,,,
 0441621f-dea4-479c-b42a-208551dc8434,Asianizations.net,available,34,4,13,,,
@@ -2220,7 +2226,7 @@ fdd54d4e-1e4b-4fd7-bddd-7350b935ed6c,askover.net,available,60,72,8,,,
 eb1ebcbb-8ab1-4188-ad5b-2a78001b355a,askround.net,available,60,72,9,,,
 6a46e399-f00e-47f8-91ed-cdd6f1e5f4a5,asl.net,resell,58,92,3,"Sav.com, LLC",28/06/2001 10:34,28/06/2026 10:34
 e5b978d1-7e50-41db-8c57-f5fae9d10c43,aslant.net,available,58,2,6,,,
-6de17a85-fb58-4c37-9fc2-b7c6d6764415,asleep.net,resell,74,7,6,"Spaceship, Inc.",09/06/1998 04:00,08/06/2026 04:00
+6de17a85-fb58-4c37-9fc2-b7c6d6764415,asleep.net,resell,74,6,6,"Spaceship, Inc.",09/06/1998 04:00,08/06/2026 04:00
 80bc796c-6e40-4301-8ae2-c99c5c00491e,ASlevel.net,available,58,72,8,,,
 ce7aecc0-08fe-43db-bab6-b03c8084ae8a,aslikeasnot.net,available,46,4,14,,,
 333d2e4a-01e8-49eb-9285-173556cba763,aslikelyasnot.net,available,46,4,16,,,
@@ -2243,7 +2249,7 @@ fd1e02c1-c2c1-4788-b2a7-dfbcb2bd8fa6,asofyet.net,available,52,72,9,,,
 0b9a4ed4-bb6f-4573-8001-ac482206d034,asoldasMethuselah.net,available,54,72,20,,,
 f219dcbb-bd3d-4179-844e-3302263a30c8,asoneman.net,available,44,72,10,,,
 9a113d1b-ad97-4f7d-b93b-d98fad644fea,asopposedto.net,available,50,72,13,,,
-594d9cfb-f130-4ff9-b798-ef8379517133,aspect.net,resell,92,88,6,"GoDaddy.com, LLC",05/08/1997 04:00,04/08/2026 04:00
+594d9cfb-f130-4ff9-b798-ef8379517133,aspect.net,resell,92,21,6,Dynadot Inc,05/08/1997 04:00,04/08/2027 04:00
 6cc9c20f-d5cf-4209-b7cb-34170e0d10da,aspen.net,resell,58,84,5,Dynadot Inc,27/11/1995 05:00,26/11/2025 05:00
 33359c6c-8a01-4c95-8002-5de72d4c5322,aspertheusual.net,available,44,72,16,,,
 0ebc4f61-d5d8-468c-9654-db6e145d966e,asperusual.net,available,44,72,12,,,
@@ -2306,6 +2312,7 @@ ce6d2e53-2199-4569-99e9-863a160a01bb,assonant.net,available,44,1,8,,,
 6426e112-c0c6-41a1-a478-b659fc70f9bd,assuaging.net,available,58,72,9,,,
 380d5c6b-ebbe-42a4-8af2-60ffd3affae3,assuasive.net,available,68,1,9,,,
 7b7464ca-60f5-4718-825a-fc195d81c2c4,assuch.net,available,58,72,7,,,
+3c743985-a327-40ae-b581-aad7c3a630cc,assume.net,resell,76,8,6,"eNom, LLC",26/03/2003 19:20,26/03/2026 18:20
 89dc42e6-6fdc-4e7e-8509-38f5abe726ec,assumedly.net,available,52,72,9,,,
 911c2717-1436-4af0-9af5-b68d8f26e6cb,assumedname.net,available,54,72,12,,,
 74e89494-85a9-4265-bb6e-3af2ea63f4f3,assumer.net,available,56,72,7,,,
@@ -2337,7 +2344,7 @@ b79cf742-5bf9-473c-9615-594c2d3c87d1,astimesgo.net,available,44,72,11,,,
 45e96e4c-e72e-4280-a3cc-8f6d90e35f96,astomatous.net,available,34,1,10,,,
 497be077-be7e-46c4-8482-75c2de083932,astonied.net,available,54,1,8,,,
 7ef15fcf-cfd9-40e9-9b4d-cf1c2332152a,astonished.net,resell,68,2,10,Imminentdomains.net LLC,05/03/2019 19:18,05/03/2026 19:18
-87271fe5-7ea5-43ad-b444-1443b2a20a65,astounded.net,resell,68,1,9,Deschutesdomains.com LLC,30/06/2019 18:08,30/06/2026 18:08
+87271fe5-7ea5-43ad-b444-1443b2a20a65,astounded.net,resell,68,2,9,Deschutesdomains.com LLC,30/06/2019 18:08,30/06/2026 18:08
 d9d1d193-996b-4e41-bc9b-e761823e92d2,astragalar.net,available,34,1,10,,,
 7ce57adc-debc-4837-be5e-1390c1544d05,astrallamp.net,available,58,72,11,,,
 c1d5666e-e271-4336-8668-eee7877769d3,Astro.net,resell,73,92,5,InterNetX GmbH,25/08/2011 18:22,25/08/2025 18:22
@@ -2352,7 +2359,7 @@ b711d50e-e24f-4acd-817e-2ae869447db5,AstronomerRoyal.net,available,52,8,16,,,
 217baa79-aaec-4ce9-9276-021a256dde4d,astronomicalunit.net,available,64,72,17,,,
 956cff00-f181-496f-9fbb-ab5c9930351b,astrophotograph.net,available,62,72,15,,,
 7e7aed09-85fc-46f6-8044-6d63d648a7bf,Astudent.net,available,78,72,9,,,
-e942b573-cca2-4da3-a864-0bf029ee0427,astute.net,resell,70,14,6,"GoDaddy.com, LLC",04/06/1998 04:00,03/06/2026 04:00
+e942b573-cca2-4da3-a864-0bf029ee0427,astute.net,resell,70,13,6,"GoDaddy.com, LLC",04/06/1998 04:00,03/06/2026 04:00
 6cb4d463-fb0a-4b13-9228-3a2e2dd05219,astuteness.net,available,62,72,10,,,
 77ff9cf3-f50d-4753-97d2-723d09e219b9,aswespeak.net,available,54,76,11,,,
 a0479c86-e92b-4055-8e2b-1580c2db90e7,aswhat.net,available,56,72,7,,,
@@ -2367,7 +2374,7 @@ be9f0f4c-df98-45ee-a738-227a31aabc1e,Atami.net,resell,58,76,5,Dynadot Inc,13/04/
 68619923-19e8-4e81-8d48-8f7053c79a2a,Atascosa.net,available,54,76,8,,,
 e5435f2e-2881-4a4e-aaef-ac38b70386de,Ataturkism.net,available,52,72,10,,,
 fe891d0b-f73f-4b09-9434-fc4fdb79004c,Atayal.net,available,74,72,6,,,
-24aa089a-6fb3-4c4b-a325-5635be2219ec,atbottom.net,available,56,72,9,,,
+24aa089a-6fb3-4c4b-a325-5635be2219ec,atbottom.net,available,56,1,9,,,
 51a2cc6b-6fc0-4614-91a7-bc66c6a44228,Atcham.net,available,56,72,6,,,
 44273e42-6b3a-4d45-97c2-5a13945310e5,ateleiotic.net,available,34,1,10,,,
 ed9f1f08-ccaf-4874-8bb9-406a6ea1c916,ATEOTD.net,available,60,72,6,,,
@@ -2376,8 +2383,8 @@ ba634118-ab1e-4290-8e4b-dbd5ec0f621c,Ateso.net,available,54,76,5,,,
 875926f9-467e-4b8c-b484-b5c0683b959f,atfault.net,available,36,1,8,,,
 e3999e13-3882-4550-91ca-a4b0401abbed,Athanasios.net,resell,52,80,10,InterNetX GmbH,12/05/2004 20:12,12/05/2026 20:12
 66f4ba69-576c-49df-8f92-0681a9bbeefe,Atharvaveda.net,available,50,76,11,,,
-cf496675-53de-4a7e-8565-4d4f3cc671a6,atheart.net,resell,64,80,8,"NameSilo, LLC",24/10/2023 18:19,24/10/2025 18:19
-f123c79c-5eb8-4532-89b7-41cd844b335d,atheist.net,resell,88,10,7,Dynadot Inc,06/11/2023 19:17,06/11/2026 19:17
+cf496675-53de-4a7e-8565-4d4f3cc671a6,atheart.net,resell,64,6,8,"NameSilo, LLC",24/10/2023 18:19,24/10/2025 18:19
+f123c79c-5eb8-4532-89b7-41cd844b335d,atheist.net,resell,88,9,7,Dynadot Inc,06/11/2023 19:17,06/11/2026 19:17
 806d80e1-5927-46a3-8181-0c725f28b0c5,atheistic.net,available,40,1,9,,,
 dd8d7e3b-5be0-4aaa-8b23-34e3abdcb6ad,atheistlike.net,available,49,72,11,,,
 95296e01-7303-43eb-b959-cdb5d45564b4,Athelney.net,available,52,76,8,,,
@@ -2417,8 +2424,9 @@ f0b32288-4c09-469b-8e7a-94ccad707e55,atomictheory.net,available,62,72,13,,,
 be699533-c798-48dd-a7b5-fb92d828ede4,atomizer.net,resell,62,80,8,Dynadot Inc,18/10/2019 18:48,18/10/2025 18:48
 e43675a3-29ca-4320-92cd-d43b58698e88,atonally.net,available,46,72,8,,,
 e5162447-4c0c-41f1-9b17-e1ed7617be3f,atonic.net,available,58,2,6,,,
+25e58817-0885-4708-9a4f-35548d80bfaf,atop.net,resell,62,7,4,"Gabia, Inc.",22/02/2001 11:46,22/02/2026 11:46
 cf02f4e2-5109-4f75-8729-d6fbcb21f9ac,atoxic.net,available,38,1,6,,,
-9dd139e2-7230-4178-a8d5-0d9d7ac39cdb,atp.net,resell,66,88,3,"Spaceship, Inc.",12/06/1997 04:00,11/06/2026 04:00
+9dd139e2-7230-4178-a8d5-0d9d7ac39cdb,atp.net,resell,66,20,3,"Spaceship, Inc.",12/06/1997 04:00,11/06/2026 04:00
 dec97c57-db69-4ae2-8645-9775623e9d5f,atpeace.net,resell,74,84,8,Dynadot Inc,10/10/2013 18:34,10/10/2025 18:34
 877d3159-cedc-423b-8d8b-77c032384f60,atrip.net,resell,38,4,5,"GoDaddy.com, LLC",14/07/2002 17:18,14/07/2026 17:18
 54bbf7a5-ea5d-4320-82e8-ea29181565f1,Atropatene.net,available,50,72,10,,,
@@ -2500,7 +2508,7 @@ dd57a32d-1910-440e-aae4-ca3ed854446d,attractiveness.net,available,70,72,14,,,
 2db13aef-aed8-4305-810b-9b61dcaf520b,attributive.net,available,72,72,11,,,
 4e8e3312-d67c-41d1-9da5-4c809002e326,attrited.net,available,41,1,8,,,
 f5066cfe-f856-44f9-8046-3c63e525a7cf,Attymon.net,available,54,72,7,,,
-cba6e074-5c52-48e0-a21c-a1361d1af4aa,atworst.net,available,55,72,8,,,
+cba6e074-5c52-48e0-a21c-a1361d1af4aa,atworst.net,available,55,1,8,,,
 9682fc4e-557a-4098-8bba-40e83cf6f408,ATYD.net,available,54,72,4,,,
 515f19da-983d-475e-8e0f-e4b39246baab,atypically.net,resell,54,72,10,Salestrar EOOD,04/01/2025 19:15,04/01/2026 19:15
 578a9db8-59f6-4009-ab82-28694c2c114b,Atyrau.net,resell,54,72,6,Dynadot Inc,18/02/2002 12:45,18/02/2026 12:45
@@ -2964,6 +2972,7 @@ f2a3c527-99ad-47de-9514-5129adac5796,bakingparchment.net,available,58,8,16,,,
 f84ab04e-4f7a-4fdb-a1d8-4ddbfd34a6f4,bakingware.net,available,58,4,10,,,
 57eb9c49-7dc5-4ef9-8aff-8fd7bdfdff6d,baklavalike.net,available,60,4,12,,,
 4690168e-5443-4b29-9071-689dafe8d473,baku.net,resell,52,88,4,Dynadot Inc,14/02/2001 11:35,14/02/2026 11:35
+95ff8645-1b88-4634-8038-c146888d3186,balance.net,resell,100,33,7,"NameCheap, Inc.",07/04/1996 05:00,08/04/2026 04:00
 6c00eec8-3900-4cbb-b51a-68ae16cee26a,balconied.net,available,45,1,9,,,
 4b5cb83d-e8f4-4ba2-b3c0-c34319d9ceff,bald.net,resell,41,13,4,"Inames Co., Ltd.",01/04/2002 19:13,01/04/2026 18:13
 2fb78195-700e-4708-9c8e-1ea6b681b38d,baldcap.net,available,56,80,8,,,
@@ -3151,6 +3160,7 @@ ca58ff5e-ac6e-47b2-87fe-5abf075bfa5c,barefooted.net,available,50,1,10,,,
 c3b5bb9c-f458-43e3-958f-33d0d37913ad,barehanded.net,available,50,1,10,,,
 ff8a415c-1a58-425e-a6cb-82aee921dc2c,bareheaded.net,available,54,1,10,,,
 7c449588-a0b7-4eec-9559-03e9b65ec95b,barelegged.net,available,50,1,10,,,
+bfa2cdbe-9850-4e26-9b19-14f520412230,barely.net,resell,56,13,6,"GoDaddy.com, LLC",02/02/2000 21:53,02/02/2026 21:53
 8d129f1d-4f37-4b60-aa28-890d244754a7,baretrust.net,available,54,72,10,,,
 345959d8-60c4-425e-83c4-ac0aac152094,bargainandsale.net,available,64,72,16,,,
 d340f4c8-2815-4cb1-979e-897b515bf0ba,bargainaway.net,available,66,72,12,,,
@@ -3263,6 +3273,7 @@ a9a91d37-b2f6-4438-b4f1-5aab62e6ddbe,bashawism.net,available,50,4,9,,,
 58b71ea1-356c-4132-9937-c5906622acd6,basherts.net,available,32,8,8,,,
 22ca7f74-38a4-47e8-a9ba-1c549310d1b2,bashful.net,resell,68,4,7,"Sav.com, LLC",10/04/2000 23:20,10/04/2026 23:20
 508329a9-0724-4e67-8210-a29f7fc87165,bashfully.net,available,54,72,9,,,
+399790ab-63b0-457b-a84f-048dc6436b9e,basically.net,resell,63,7,9,Key-Systems GmbH,20/02/2013 19:40,20/02/2026 19:40
 1ae4c93b-619d-4531-b44b-5f607f0c7e5a,basicbalance.net,available,56,76,13,,,
 45d88849-ff3d-4715-858b-f4909ab074b2,basicdye.net,available,52,72,9,,,
 f746e3fc-5f84-4072-8266-9b5c34c53225,basicform.net,available,56,72,10,,,
@@ -3403,7 +3414,7 @@ ba4c60c8-57a4-45cb-9346-9923d24f0efe,bearinon.net,available,54,72,10,,,
 ac354335-0867-4f5c-aa13-4abe59e0f8cc,bearsized.net,available,34,1,10,,,
 d1f70e7f-9d88-4a6d-9925-d514396fc0b2,bearspread.net,available,54,72,11,,,
 77fe0d01-f5c4-4238-9398-2356a6e3853c,bearup.net,available,66,80,7,,,
-a228a080-d280-4e96-8913-b25ac90db9cc,beast.net,resell,64,28,5,"GoDaddy.com, LLC",03/10/2001 18:06,03/10/2026 18:06
+a228a080-d280-4e96-8913-b25ac90db9cc,beast.net,resell,64,27,5,"GoDaddy.com, LLC",03/10/2001 18:06,03/10/2026 18:06
 bb8cc530-9fa7-4d66-98c6-a92227979324,beastfable.net,available,36,72,11,,,
 ae89f75f-7465-4576-9e33-fff306474337,beastmistress.net,available,54,72,13,,,
 05593f77-b5ab-417d-97f8-883c67d54e71,beatable.net,available,46,1,8,,,
@@ -3675,7 +3686,7 @@ d427afc3-718c-46b9-b3fd-ce0b3be16f67,berrysugar.net,available,62,72,11,,,
 630236e4-88c1-4184-99c9-e87c9c2cf95f,berrywax.net,available,44,72,9,,,
 9eddf0ef-7616-4da4-a8c6-4734897221ab,berthing.net,available,54,72,8,,,
 3c5935b9-3f70-4e36-b078-efe55b336069,beseeming.net,available,66,72,9,,,
-22f15e93-43ee-43a6-a52c-9e1c5934fe3a,besides.net,resell,72,72,7,Unstoppable Domains Inc.,28/04/2002 11:46,28/04/2026 11:46
+22f15e93-43ee-43a6-a52c-9e1c5934fe3a,besides.net,resell,72,6,7,Unstoppable Domains Inc.,28/04/2002 11:46,28/04/2026 11:46
 25d1f1c0-7018-41d0-becd-82301780d130,bespectacled.net,available,52,72,12,,,
 cb7eaf07-74c4-4e0a-905e-aae455b75af4,best.net,resell,82,43,4,"GoDaddy.com, LLC",18/11/1994 05:00,17/11/2026 05:00
 f085690d-3159-4722-bf6f-f4aa92a61bd3,bestbibandtucker.net,available,72,72,19,,,
@@ -4892,7 +4903,7 @@ a0d75ce4-a684-47a1-acd8-af1b2cf0545f,broadbill.net,available,52,72,9,,,
 d53e786d-1bd6-49ed-a0ad-abe51542c99f,broadchurch.net,available,52,76,12,,,
 1fdae03f-0bb0-40c3-980f-9dd586351ffc,broadcloth.net,available,56,72,10,,,
 af2fc64d-fed0-4c71-aad4-57ed2016f87e,broadjump.net,available,60,72,10,,,
-bdddcdce-a951-4a52-9b11-b395a1f1b866,broadly.net,resell,65,72,7,IONOS SE,28/01/2004 17:27,28/01/2026 17:27
+bdddcdce-a951-4a52-9b11-b395a1f1b866,broadly.net,resell,65,4,7,IONOS SE,28/01/2004 17:27,28/01/2026 17:27
 49f03007-6089-47b4-aaff-42fb0d468317,broadmindedly.net,available,54,72,14,,,
 c0a8e435-cf5b-4d8e-9a5b-7b170810b4df,broadmindedness.net,available,60,72,16,,,
 4ff82e74-e5fd-4e60-b801-436bf664ec62,broadscale.net,available,48,76,10,,,
@@ -5353,7 +5364,7 @@ d25e67de-ffa4-42d5-8fda-3560a8d08393,butterknives.net,available,40,8,12,,,
 dfe27665-9dca-4e9a-a0ca-4cd84f9f3a1b,buttertart.net,available,60,72,11,,,
 acb40e9a-45a9-4c68-a7a8-a5be7721aeae,butterup.net,available,68,76,9,,,
 612d204f-ceb9-4b95-a0df-a3277f086e14,butterwoman.net,available,56,72,11,,,
-cbfcae1f-f05a-45f8-b0d6-2754c849437c,butthen.net,available,56,72,8,,,
+cbfcae1f-f05a-45f8-b0d6-2754c849437c,butthen.net,available,56,1,8,,,
 9602e44f-dae4-4682-945f-84bb58b376c3,butthenagain.net,available,42,72,14,,,
 10fb9058-21b8-4548-a6c7-849584c6af92,buttonable.net,available,50,72,10,,,
 db061c16-b737-4fd5-b266-9d6e67660b9b,buttoncactus.net,available,56,72,13,,,
@@ -5502,7 +5513,7 @@ f6e2a860-3204-4262-b281-96263f4bf020,cafeterrace.net,available,76,72,12,,,
 77f75f74-3ad2-4457-a983-fd66e149443f,cage.net,resell,50,84,4,"Gabia, Inc.",28/12/2001 19:03,28/12/2025 19:03
 32c27f55-ebf0-4874-a0fa-ad48e9b2bec5,cager.net,resell,56,80,5,"NameCheap, Inc.",02/01/2005 19:06,02/01/2026 19:06
 b2947a2f-73b4-4055-b70d-f2fd1e04ebdd,cagily.net,available,51,72,6,,,
-9658abb5-a912-45be-b84e-4b42855ce9a0,cairo.net,resell,68,84,5,InterNetX GmbH,21/05/1997 04:00,22/05/2026 04:00
+9658abb5-a912-45be-b84e-4b42855ce9a0,cairo.net,resell,68,13,5,InterNetX GmbH,21/05/1997 04:00,22/05/2026 04:00
 160908c4-ffa1-4b67-b308-8cfd4100c006,cajolingly.net,available,47,72,10,,,
 3f74a70b-0920-46c6-ba91-793f064a4bc2,Cajunmicrowave.net,available,58,76,15,,,
 2fda9c9d-bef7-49ce-88bf-730f815d042b,cakefork.net,available,56,72,9,,,
@@ -5677,7 +5688,7 @@ e53c4727-17b2-4c66-8653-2226f34638b9,canvasing.net,available,56,72,9,,,
 848a01c3-e0a7-4f95-94f5-2e562fb53fd2,canyon.net,resell,60,88,6,"GoDaddy.com, LLC",24/06/1997 04:00,23/06/2026 04:00
 50a54e9d-86cd-495f-bed8-7dcc56c77f68,caoutchouc.net,available,56,72,10,,,
 cc856e24-2e9b-4ddd-bd92-b12b7072824e,capabilities.net,resell,52,40,12,Dynadot Inc,30/03/2002 18:45,30/03/2026 17:45
-070d0d2e-94a5-4444-bb26-6707df9a1b4b,capable.net,resell,80,13,7,"NameSilo, LLC",19/08/2002 18:06,19/08/2026 18:06
+070d0d2e-94a5-4444-bb26-6707df9a1b4b,capable.net,resell,80,11,7,"NameSilo, LLC",19/08/2002 18:06,19/08/2026 18:06
 6501bc8a-b7a7-4754-9f9e-3911210806a6,capacities.net,resell,36,20,10,Dynadot Inc,22/01/2019 16:17,22/01/2026 16:17
 dae3cbaa-e85c-4576-8f98-bd3dd868001d,capacitors.net,resell,36,20,10,GoDaddy Online Services Cayman Islands Ltd.,01/04/1998 05:00,31/03/2026 04:00
 ff672fed-1fbe-499a-8e5d-ce8203f47bc5,CAPCOM.net,resell,78,92,6,Dynadot Inc,26/10/2013 18:04,26/10/2025 18:04
@@ -5868,7 +5879,7 @@ f65d4010-965d-47d8-afe5-cce3dd39b732,carriagebolt.net,available,56,72,13,,,
 2d62e205-3e13-4229-90ec-93f03fb9bac8,Carriages.net,resell,38,8,9,united-domains GmbH,02/07/2000 09:37,02/07/2026 09:37
 1b20587c-6dd3-4b8d-96cc-dba41642bc00,carriageway.net,available,54,76,11,,,
 2f4604a7-689b-4c66-babe-91206ea267f0,carrots.net,resell,60,28,7,"NameCheap, Inc.",21/02/2000 14:48,21/02/2026 14:48
-720c4a82-6fcf-445e-b376-4db21f9ae47b,carry.net,resell,58,80,5,Dynadot Inc,22/12/2003 19:13,22/12/2025 19:13
+720c4a82-6fcf-445e-b376-4db21f9ae47b,carry.net,resell,58,16,5,Dynadot Inc,22/12/2003 19:13,22/12/2025 19:13
 7429ad24-0754-4953-a46c-6c943dcbc4d7,carryalls.net,available,38,8,9,,,
 861bd8b3-b54d-419a-a9a6-cdc8f2f61e7b,carryaway.net,available,66,72,10,,,
 8a5928cf-1cac-4c61-afbd-3eeb1b484ab1,carryback.net,available,64,72,10,,,
@@ -6201,6 +6212,7 @@ d49026d4-b960-49f8-a63d-4eb36ef20973,centuryegg.net,available,55,72,11,,,
 1310a84e-4d43-4f1e-b770-5553ac690f7a,cerealbars.net,available,52,8,11,,,
 cab86776-e623-4586-9ed9-c706abbdfdec,cerebralhemisphere.net,available,56,72,19,,,
 11df1f09-0222-4497-89cf-6a636d05ba27,cerebrally.net,available,54,72,10,,,
+87688847-32d0-495d-8236-31e92c394baf,certain.net,resell,80,7,7,"GoDaddy.com, LLC",29/07/2002 20:42,29/07/2026 20:42
 d879eee7-ed59-4c62-8ecd-35feb355b6df,certifying.net,resell,54,72,10,"Wild West Domains, LLC",15/04/2005 18:14,15/04/2026 18:14
 274d6fcb-3874-4790-beb9-043cb7e37d73,ceylon.net,resell,68,92,6,Epik LLC,19/05/2002 18:07,19/05/2026 18:07
 797bfd04-bf0a-4f0f-aa51-73244e0de661,ceylonese.net,available,72,76,9,,,
@@ -7078,7 +7090,7 @@ dbe88823-0c99-49dd-b8c5-d670cb0248a7,clearcutting.net,available,52,8,12,,,
 61e69c14-3566-45de-8777-00f4e97d12bd,clearheadedness.net,available,64,72,16,,,
 67da0994-afdb-4369-8d54-f5a730e97067,clearing.net,resell,62,84,8,Dynadot Inc,25/07/2002 20:27,25/07/2026 20:27
 25595a6d-9a19-4bff-b8df-47a747b20b72,clearingthedecks.net,available,44,4,18,,,
-13a1d74c-7931-4b4b-8ff6-c0de077c0aae,clearly.net,resell,77,88,7,GoDaddy Online Services Cayman Islands Ltd.,12/12/1997 05:00,11/12/2025 05:00
+13a1d74c-7931-4b4b-8ff6-c0de077c0aae,clearly.net,resell,77,15,7,GoDaddy Online Services Cayman Islands Ltd.,12/12/1997 05:00,11/12/2025 05:00
 f8e2f2d5-5e7a-4d89-bc43-f2729e11dae2,clearobscure.net,available,52,72,13,,,
 e32e7e04-7e94-44bd-bbcb-332764fef123,clearoff.net,available,68,72,9,,,
 42eaaf9f-6960-4c4b-b038-7a22310b74bc,clearsighted.net,available,58,72,13,,,
@@ -7143,7 +7155,7 @@ a8bd6e65-0559-4ea4-99ac-7b3a764a687a,clockin.net,resell,62,80,8,Squarespace Doma
 dc04fee3-7694-490c-96ad-4ce1a67e77be,clonemate.net,available,56,72,9,,,
 cfaf58b0-ce17-4587-8191-a2b4a052574e,clonetown.net,available,56,72,10,,,
 4f97d68c-7473-4c4c-a94e-2d2b4ae558c1,cloning.net,resell,66,76,7,"GoDaddy.com, LLC",21/10/2002 18:07,21/10/2025 18:07
-b706c2ae-514a-4abb-be89-1a1325975d85,close.net,resell,72,19,5,"NameCheap, Inc.",12/08/2011 18:14,12/08/2026 18:14
+b706c2ae-514a-4abb-be89-1a1325975d85,close.net,resell,72,18,5,"NameCheap, Inc.",12/08/2011 18:14,12/08/2026 18:14
 6c1614ea-4625-47af-bdf4-841236fc20cd,closeborough.net,available,56,72,13,,,
 a436f9bb-db28-4042-9de6-a1de89119a2f,closecoupled.net,available,56,72,13,,,
 88f62b72-2912-4fdb-bc92-5045c807d7a6,closedassemblytime.net,available,54,72,20,,,
@@ -7182,6 +7194,7 @@ db773375-758c-4401-8a2b-89d0a5c50fc4,closepacked.net,available,56,72,12,,,
 fd11a5c7-7917-45df-a757-7293226f4635,closeranks.net,available,66,72,11,,,
 9a9fa8cc-2509-4384-94aa-ca19a1209382,closereef.net,available,42,12,10,,,
 839a47ab-38d3-4912-8442-17820220bdca,closeseason.net,available,64,72,12,,,
+f72e1734-3ca7-4c68-8439-c94f8a878266,closest.net,resell,68,3,7,Dot Holding Inc.,18/07/2002 23:19,18/07/2026 23:19
 3862de58-f364-4c08-8715-ee5d892dd5f1,closetcandlestick.net,available,36,4,18,,,
 0864bb67-4300-431d-b7eb-a61a3b352939,closetchaplain.net,available,36,4,15,,,
 4076b4d8-a5b3-46c4-affa-eff0da3860d1,closetdevotion.net,available,36,4,15,,,
@@ -7712,6 +7725,7 @@ f1051f6f-19f1-4a10-a6ed-6fe9e0083995,commonlawwife.net,available,36,8,15,,,
 02fd0f0d-4961-416e-b8c8-d91eeebf0d2c,commonlinnet.net,available,62,8,13,,,
 7e79baeb-ca6c-45ad-b3c5-d257043cde54,commonlog.net,available,46,72,10,,,
 450f870e-4a16-4bdf-ae32-3c6d13d62077,commonloon.net,available,58,72,11,,,
+33c28abb-ed2e-4cc9-b652-8ef549387a05,commonly.net,resell,64,4,8,"NameSilo, LLC",04/09/2018 18:20,04/09/2026 18:20
 9609b1d6-8e30-49fe-8136-b6eaa528c3a7,commonlyasked.net,available,36,8,14,,,
 8d8bf32f-f406-414d-9449-5d42d48c6525,commonmallow.net,available,58,4,13,,,
 28547828-cf57-4f3d-9dc8-1468762b30a3,commonmarket.net,available,64,72,13,,,
@@ -7836,12 +7850,14 @@ e1bd101e-9926-4103-b688-8c53eb0a1929,comparativedegree.net,available,54,72,18,,,
 35f1457a-446c-4207-be24-a80d3eeab7a4,compassionateuse.net,available,64,8,17,,,
 e3c564cf-e131-4c00-804d-cda66cf6e72c,compassneedle.net,available,64,72,14,,,
 0bdbabf1-9aac-49e5-962a-fc68fba4fedc,compensatable.net,available,50,72,13,,,
+515fb484-fb05-4e2b-afd0-5da153149cb1,compensate.net,resell,77,7,10,Unstoppable Domains Inc.,03/05/2024 18:31,03/05/2026 18:31
 f2e77c42-cfe0-4d1b-8c30-8b1e39106a59,compensations.net,resell,38,24,13,"Spaceship, Inc.",27/11/2022 19:32,27/11/2025 19:32
 9b94d0cc-62c4-4660-9eb1-17aeb8f17fff,compensative.net,available,68,72,12,,,
 712d477d-9b93-44b9-a0db-13cdc096ee45,competently.net,available,50,80,11,,,
 e7611865-a55e-4f5c-a1a7-7dbc787dd274,competitively.net,available,50,72,13,,,
 4fdafb6a-df11-47e2-8757-7fafec4bf2a4,compiled.net,resell,36,28,8,"eNom, LLC",24/03/2000 05:44,24/03/2026 04:44
 aeaed01b-72d6-448e-bf15-20211a533fcf,complacence.net,available,54,8,11,,,
+6b6581bf-22d5-41ea-94e4-db12c8d889fc,complain.net,resell,65,6,8,"GoDaddy.com, LLC",16/07/1997 04:00,17/12/2025 14:42
 dca3f083-dad4-4ee9-9a5b-a95e1c4714dd,complaisance.net,available,52,72,12,,,
 127866e9-5641-4bd0-8e9c-b96e2519d5d1,complaisant.net,available,58,72,11,,,
 d5e11fb4-d3ce-46c1-8103-6d96d0b005e3,complementaryangle.net,available,54,72,19,,,
@@ -8227,7 +8243,7 @@ e57ed2cf-3ddf-40fb-a096-c734f6f8b184,contradicted.net,available,56,72,12,,,
 dfcd1abb-355d-4f6c-817f-84fb646dc890,contributes.net,resell,42,72,11,"GoDaddy.com, LLC",25/09/2005 09:19,25/09/2025 09:19
 5f46c332-5038-4835-a683-e9b9f9a99ab8,contributors.net,resell,42,28,12,"TurnCommerce, Inc. DBA NameBright.com",22/12/1999 13:54,22/12/2025 13:54
 85b746d5-393d-41f8-8165-f223aba8d06d,contritely.net,available,42,72,10,,,
-9e0d95f2-db6b-452c-9a06-01f2114bcf6a,control.net,resell,96,80,7,"GoDaddy.com, LLC",07/07/2004 18:20,07/07/2026 18:20
+9e0d95f2-db6b-452c-9a06-01f2114bcf6a,control.net,resell,96,26,7,"GoDaddy.com, LLC",07/07/2004 18:20,07/07/2026 18:20
 91080269-e4dd-49bb-936c-902b37901874,controlcharacter.net,available,58,72,17,,,
 bf0d9554-8778-4bdc-abb9-668c761a53e8,controlknickers.net,available,42,72,16,,,
 e03069eb-c541-4371-8cfb-4927a99755dc,controllably.net,available,46,72,12,,,
@@ -8366,7 +8382,7 @@ b8632557-eb7f-44c1-b26b-853550aa2de6,Coraline.net,resell,46,68,8,"Sea Wasp, LLC"
 3cd75608-608a-4fb6-a169-5839615e9531,coralred.net,available,60,76,9,,,
 af5905eb-ca8f-4b03-b57b-382e09e59610,corbelled.net,available,52,72,9,,,
 6c15a8c4-93ea-462e-8fcb-37cc7f915a4b,corded.net,available,58,72,6,,,
-f7d509d5-3cc7-4295-b616-6f7c7c1e19e9,cordial.net,resell,98,11,7,"Sea Wasp, LLC",31/10/2000 11:48,31/10/2026 10:48
+f7d509d5-3cc7-4295-b616-6f7c7c1e19e9,cordial.net,resell,98,9,7,"Sea Wasp, LLC",31/10/2000 11:48,31/10/2026 10:48
 d1119fc3-3380-48fb-b8c6-fe92c8aa41ca,cordiform.net,available,52,72,9,,,
 6f4c0793-c526-4559-bf45-348d34534798,cordlesstelephone.net,available,76,72,18,,,
 82810322-6ef7-4214-9f3b-e575d1fd3126,cordonoff.net,available,58,72,10,,,
@@ -8417,7 +8433,7 @@ e7474ab8-51c9-4898-ac95-b657967f6453,corolla.net,resell,58,80,7,Dynadot Inc,29/0
 c2f233a9-abc2-4026-92e6-ca79fda2de47,corporationbus.net,available,52,72,15,,,
 639f9858-0cce-4122-9bd0-da33150b6b70,corporatism.net,available,52,8,11,,,
 ab08f841-1560-4121-9a17-59e982cfc63d,corporatization.net,available,52,8,15,,,
-12cb3972-24bc-4ac1-8122-6f4bdd936308,corps.net,resell,74,84,5,"Sav.com, LLC",17/03/1999 05:00,17/03/2026 04:00
+12cb3972-24bc-4ac1-8122-6f4bdd936308,corps.net,resell,74,12,5,"Sav.com, LLC",17/03/1999 05:00,17/03/2026 04:00
 8bd7b231-4016-40f9-a9b6-988e7cd835a3,corpsdeballet.net,available,54,72,15,,,
 891451d9-55d0-49e5-9086-b12e53fb9439,correctable.net,available,58,72,11,,,
 a8d0c79c-1824-495c-9f83-c4fa663129a4,corrected.net,resell,70,3,9,DropCatch.com 1536 LLC,11/07/2018 18:11,11/07/2026 18:11
@@ -8611,7 +8627,7 @@ ac7e1dfc-5df8-4037-879d-dfd64d52583e,countout.net,available,60,72,9,,,
 c2763852-1d2c-4ebf-b526-266490cecf72,countpalatine.net,available,58,72,14,,,
 d4e4a9f9-3532-42d6-bf53-8c927d9cb2bb,CountriesinAsia.net,available,52,8,17,,,
 3f0c3990-e754-4209-8a67-0ca79a266ca3,countrified.net,available,50,72,11,,,
-8e6f7c24-aa94-4df6-b37d-d10d9cf4a7e6,country.net,resell,92,88,7,"DNC Holdings, Inc.",23/01/1996 05:00,24/01/2026 05:00
+8e6f7c24-aa94-4df6-b37d-d10d9cf4a7e6,country.net,resell,92,23,7,"DNC Holdings, Inc.",23/01/1996 05:00,24/01/2026 05:00
 c31dcf5c-3b59-45d1-bad5-b3bc8ac65810,countrybeer.net,available,62,72,12,,,
 fa7ff8d2-825c-4fa3-a228-b7ee7d27fc5f,countryborn.net,resell,38,12,12,"GoDaddy.com, LLC",20/08/2018 00:06,20/08/2025 00:06
 ea3f6c95-7b98-4e92-be09-6500fe4ea6d6,countrycaptain.net,available,56,72,15,,,
@@ -9101,7 +9117,7 @@ cb778bb3-8de3-4012-b187-f7a6165659f7,curbsideservice.net,available,68,76,16,,,
 1f5a3ade-846f-41d5-8e6a-0451b94ae203,curdler.net,available,62,72,7,,,
 e2c00482-79ea-4e83-88f9-2955a15df594,curdsandwhey.net,available,68,76,14,,,
 b963adae-b89f-4d27-a487-5393465d1702,curettage.net,available,52,72,9,,,
-6f7ce9c6-6e79-4a24-bb81-caf37e1460c7,curiously.net,resell,62,84,9,"GoDaddy.com, LLC",01/01/2012 02:15,24/05/2026 11:59
+6f7ce9c6-6e79-4a24-bb81-caf37e1460c7,curiously.net,resell,62,4,9,"GoDaddy.com, LLC",01/01/2012 02:15,24/05/2026 11:59
 2bd20386-bcd8-44a4-a5a4-792738a2f612,curled.net,resell,58,76,6,"Spaceship, Inc.",01/05/2025 22:03,01/05/2026 22:03
 f247dccc-7b92-4f45-84e0-0dcaa9a59357,curledhair.net,available,68,72,11,,,
 7139b607-49a8-4507-992c-87111f16646a,curler.net,resell,62,76,6,"Sea Wasp, LLC",10/01/2005 19:11,10/01/2026 19:11
@@ -9213,6 +9229,7 @@ b4f39cf2-5572-4253-b052-79c765360490,cyclicquadrilateral.net,available,54,72,20,
 a1a85a27-db75-464c-9d34-ca7f28279733,Czechoslovakian.net,available,70,72,15,,,
 80b0ed23-d9af-49a6-870d-c7716710efa5,dabbing.net,resell,62,68,7,"GoDaddy.com, LLC",08/06/2013 18:17,08/06/2026 18:17
 73f2de6e-06e6-481e-b2a4-5835d740df84,dabbled.net,available,56,72,7,,,
+12e555e9-7d94-48d9-a398-eef018c8a83d,dad.net,resell,74,26,3,"GoDaddy.com, LLC",04/10/1998 04:00,03/10/2026 04:00
 e26f8d0d-8abb-47d8-a7b6-882f45d2a9e4,Dadaist.net,available,74,72,7,,,
 cdad2c71-e85d-4820-a422-571a61e8a62e,daddancer.net,available,58,72,10,,,
 615f2db2-1e5b-414e-9e69-62f6160aa821,daddancing.net,available,62,8,11,,,
@@ -9339,7 +9356,7 @@ f2e75084-83e6-4456-be57-21d012a49461,datumline.net,available,54,76,10,,,
 2559b801-5db7-470e-b49c-d24d3a9149bc,dawnoftime.net,available,40,72,12,,,
 6fcfa567-816e-46a9-96dc-078eb2a5a8f2,dawns.net,resell,44,20,5,Dynadot Inc,05/10/2000 13:48,05/10/2025 13:48
 7ab43c6d-94bc-4347-a31f-f13d90deb2f4,dawnupon.net,available,60,72,9,,,
-be8a1f96-d081-4c28-a266-96ba36d49626,day.net,resell,82,92,3,"Gabia, Inc.",07/10/1996 04:00,06/10/2026 04:00
+be8a1f96-d081-4c28-a266-96ba36d49626,day.net,resell,82,29,3,"Gabia, Inc.",07/10/1996 04:00,06/10/2027 04:00
 defdec65-0c1c-47ab-9988-caa09059fbcc,daybeforeyesterday.net,available,36,72,20,,,
 8ed31b1d-509b-4d81-9e9f-b53920f5f4d3,daybreak.net,resell,60,80,8,"Name.com, Inc.",13/05/2010 18:55,13/05/2026 18:55
 9b2b75c6-b291-4eb5-a090-c135e964f985,daycoach.net,available,56,72,8,,,
@@ -9551,7 +9568,7 @@ f5c9bed2-e24f-4d69-9bca-78fd6e5af45f,demigod.net,resell,68,80,7,"Sea Wasp, LLC",
 0ff56a18-f2ba-41f6-b630-fe0817bb2cc2,demilitarizedzone.net,available,62,72,18,,,
 1c644519-1a88-4872-b94a-b3e5a285f0f4,demisemiquaver.net,available,56,72,14,,,
 d582b755-d46d-40ca-8aa6-503bebf1af71,demist.net,available,63,76,6,,,
-5e75a9e0-dee7-4363-b95c-7cfc54d67b3b,demo.net,resell,110,84,4,"GoDaddy.com, LLC",17/01/2000 11:47,17/01/2026 11:47
+5e75a9e0-dee7-4363-b95c-7cfc54d67b3b,demo.net,resell,110,40,4,"GoDaddy.com, LLC",17/01/2000 11:47,17/01/2026 11:47
 5d6aa1ee-ad2c-4d89-8eaa-c856fe9f69fa,demobilise.net,available,61,68,10,,,
 926f896a-fa8f-42d0-b270-61bd451f68d6,demobilize.net,available,61,76,10,,,
 6d6146cb-920b-49ea-8c78-80662d0998c4,democraticeducation.net,available,66,72,20,,,
@@ -9623,7 +9640,7 @@ a5dfc72e-f79d-4415-8e20-1f194828391b,depot.net,resell,62,84,5,"GoDaddy.com, LLC"
 6f7ce237-1efb-4f13-8f82-4429b6f647ff,DEQ.net,resell,38,28,3,"Soluciones Corporativas IP, SL",08/02/1999 05:00,08/02/2026 05:00
 5da5b78f-35d5-4dcf-8cff-83ca08500218,Derbycheese.net,available,34,72,12,,,
 fe51f4f5-60fa-4257-abd2-a47f3c6069fb,DerbyshireDales.net,available,44,8,16,,,
-d3049689-91d7-42af-8b03-c3467d71e304,derelict.net,resell,92,7,8,Gname 227 Inc,18/02/2025 19:21,18/02/2026 19:21
+d3049689-91d7-42af-8b03-c3467d71e304,derelict.net,resell,92,6,8,Gname 227 Inc,18/02/2025 19:21,18/02/2026 19:21
 77931cd9-fda4-45f9-afce-714affcc6292,derestrict.net,available,57,72,10,,,
 de7524d8-7d46-4c06-8f8c-ddaa0fd7f476,derivedfunction.net,available,56,72,16,,,
 3b88d455-b7cb-41be-8cbc-525fac99bf68,derivedunit.net,available,62,72,12,,,
@@ -9736,7 +9753,7 @@ fc55a2cd-8b1b-4abb-af9c-6204130f7e9c,detestable.net,resell,52,2,10,"GoDaddy.com,
 c59eb6cd-bb02-4545-bec7-153c08a6c6fb,detour.net,resell,90,76,6,"GoDaddy.com, LLC",10/05/2023 18:01,10/05/2026 18:01
 78200a2f-37e2-478f-871e-2fa88615ccf8,detoxifications.net,available,44,8,15,,,
 abe50d0c-9eab-4284-98a6-f5228ec92c50,DetroitRiver.net,available,62,72,13,,,
-b9228aca-6ae8-4df1-b30f-05d4a35d46d7,deuce.net,resell,66,11,5,"NameSilo, LLC",11/05/1997 04:00,12/05/2026 04:00
+b9228aca-6ae8-4df1-b30f-05d4a35d46d7,deuce.net,resell,66,8,5,"NameSilo, LLC",11/05/1997 04:00,12/05/2026 04:00
 9591b2a8-eb2b-428e-a69c-738f5b552ba0,deuceace.net,available,54,1,9,,,
 509336bf-7bcf-4a71-98c4-89e24eb0ed9e,deuces.net,resell,78,88,6,"GoDaddy.com, LLC",06/02/2004 19:44,06/02/2026 19:44
 4b3ab4d7-0898-49f5-9ae5-30668a758a84,deuteron.net,available,52,72,8,,,
@@ -9975,27 +9992,10 @@ eecc6e52-774e-49f9-9e33-a49b750b12c3,disintermediate.net,available,58,76,15,,,
 2750adcb-3b90-4387-ae33-281b9625129e,disklike.net,available,48,72,8,,,
 82e2dfd4-17e5-4938-8aac-e3fe66ae6c16,DiskoIsland.net,resell,48,72,12,"GoDaddy.com, LLC",13/01/2025 07:47,13/01/2026 07:47
 2b9c6e7c-aaa2-4eaa-bb32-abc9d72ade56,diskpack.net,available,64,72,9,,,
+759b6771-f856-43b6-abff-f077160fc51d,dismay.net,resell,82,3,6,Dynadot Inc,22/08/2022 15:58,22/08/2026 15:58
 cf5aa835-0ab8-499f-94cc-81ba10bba713,dismayed.net,resell,54,1,8,"GoDaddy.com, LLC",12/03/2007 18:42,12/03/2026 18:42
 66df3d6b-1926-4aa9-87ca-dfe4e8b709ea,dismaying.net,available,52,1,9,,,
 70440da9-ba65-4294-9058-7a525a0010e6,dismissed.net,resell,50,4,9,"Sea Wasp, LLC",06/02/2005 19:24,06/02/2026 19:24
 583b94b9-a069-4689-960c-aba7015b43d7,Disneybounding.net,available,62,8,14,,,
 b1583bb3-9e18-4797-9929-b40b0f7e6544,Disneyfication.net,available,58,8,14,,,
 1348dfdb-ca49-4c69-8bd8-d51f1a7f0c72,Disneylandification.net,available,58,4,19,,,
-2f1d8869-97ba-499b-9c48-a6b8a4b5af06,Disneyphilia.net,available,64,4,12,,,
-184e3a11-b21b-4a6f-9afa-4ac629964276,disparately.net,available,42,72,11,,,
-3f1d02f9-90c4-4a67-af3b-1892f29db414,dispassionately.net,available,48,72,15,,,
-31071c06-a63b-4781-9838-5822bcd7652a,dispatchboat.net,available,36,4,13,,,
-e3d22440-f970-4aad-88c6-b553d581ab28,dispatchers.net,resell,36,40,11,Porkbun LLC,21/10/2022 18:25,21/10/2025 18:25
-e2891139-9ca6-4477-8f42-931d22356ea9,dispatchmoney.net,available,54,4,14,,,
-1c4d10ac-ba6a-4d34-ac2c-0cdf2ac7becb,dispelled.net,available,36,12,9,,,
-4283b5fb-e0e2-4362-806a-b9ed6d044685,dispensaries.net,resell,36,16,12,"GoDaddy.com, LLC",10/10/2014 18:25,10/10/2027 18:25
-bb84fabb-1da3-418b-be22-2fd83847c6b1,dispensary.net,resell,66,84,10,"GoDaddy.com, LLC",17/12/1999 15:18,17/12/2025 15:18
-629e0bc8-37f8-4651-a2b4-6f39a6e234bd,dispense.net,resell,87,80,8,"OnlineNIC, Inc.",13/12/2000 11:42,13/12/2025 11:42
-120546ac-f03a-4f21-ab5b-3f2683180205,dispenser.net,resell,66,84,9,"GoDaddy.com, LLC",14/03/2003 19:06,14/03/2027 18:06
-c7ed9ba6-7a9f-4b78-8c10-382c63ae98ac,dispersion.net,resell,64,72,10,Dynadot Inc,10/04/2002 22:58,10/04/2026 22:58
-9c15e937-7fd5-4f3c-b92d-475ce83835a6,display.net,resell,102,80,7,"eNom, LLC",11/01/2000 13:30,11/01/2027 13:30
-704af75f-08ae-42d0-abf7-a29c5c09258c,displayable.net,available,52,72,11,,,
-cca33385-2215-4a7e-8c92-ff3a71233e5c,displayadapter.net,available,40,8,15,,,
-2c9195ca-fd4d-455b-8263-145465b2138a,displaysurface.net,available,40,4,15,,,
-99b01812-a21e-4899-9f95-f6b791f9974c,displaywindow.net,available,54,72,14,,,
-d7128f50-8012-4122-8b5f-2749081d7cde,disporting.net,available,56,76,10,,,
