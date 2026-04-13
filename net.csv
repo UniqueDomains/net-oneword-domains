@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 387adb22-d414-485c-923d-ae4b52f36d99,inspired.net,resell,,,78,31,8,"NameCheap, Inc.",24/01/2001 11:35,24/01/2027 11:35
 7f7a4151-b29c-4ae2-bf92-d584a78a9b10,abundantly.net,resell,,,70,3,10,"GoDaddy.com, LLC",30/01/2016 05:22,30/01/2027 05:22
 9869458a-c6bd-4861-ad27-2c7b88c05c92,mexican.net,premium,17767.5,,70,23,7,GoDaddy Online Services Cayman Islands Ltd.,23/09/1998 04:00,22/09/2026 04:00
-fa4170b5-bf69-45b0-8ba9-c16438d43879,commercial.net,resell,,,81,26,10,"GoDaddy.com, LLC",25/04/1995 04:00,26/04/2027 04:00
+fa4170b5-bf69-45b0-8ba9-c16438d43879,commercial.net,resell,,,81,25,10,"GoDaddy.com, LLC",25/04/1995 04:00,26/04/2027 04:00
 6febd8a5-6a44-47e4-a3d4-92841ff0bce3,maidenhair.net,premium,,,54,72,11,,,
 43a973a4-e429-4ebe-8023-f72ce4746491,saucepot.net,premium,,,64,72,8,,,
 17c5414d-d805-457d-904d-7341b5b82fd2,sawtooth.net,resell,,,,7,9,"eNom, LLC",13/11/1997 05:00,12/11/2026 05:00
@@ -936,7 +936,6 @@ f2b607cb-ec93-4b77-bd7f-454ac30300e8,securitize.net,resell,,,58,84,10,"GoDaddy.c
 bda729c1-88f8-424c-928a-3e5fa308d2d4,explaining.net,resell,,,58,80,10,Dynadot Inc,10/06/2003 18:25,10/06/2026 18:25
 862ac512-825a-4ab1-a706-15bd95b22fd9,happyish.net,premium,,,54,72,8,,,
 a3d9b99b-4a82-4f1b-a788-bc42a44ce735,bowlingfigures.net,premium,,,58,72,15,,,
-2298c4cf-3a73-46ae-8b93-af36c84f6a36,soandso.net,resell,,,56,98,9,Domainsnapper LLC,25/02/2025 19:24,25/02/2026 19:24
 ba5138c3-1787-4c47-8253-31b0c446d642,frappe.net,resell,,,60,88,6,"Name.com, Inc.",14/09/1999 21:28,14/09/2025 21:28
 a0edcc1c-5de9-40c2-b7b7-acea68ac2181,craftscentre.net,premium,,,54,4,13,,,
 298c1016-0bc0-4cb9-a226-48709a46ee9e,accentdiamond.net,premium,,,64,72,14,,,
@@ -3702,7 +3701,7 @@ e7a808a0-f366-4d37-86b1-e453d3c5cc5d,sartre.net,premium,,,69,80,6,Annulet LLC,27
 da092d25-1d67-4ade-b4d7-a039f7487b41,didleybow.net,premium,,,62,72,10,,,
 96a52252-018e-4b2d-9cf9-c2311e389278,feelers.net,premium,,,42,24,7,,,
 8c236c01-b583-409d-b2c8-cb4fe7fc0521,Georgianstudies.net,premium,,,54,4,16,,,
-b80d2271-cc52-467c-82c6-db5d3ff4af5b,branded.net,premium,21321,,72,25,7,GoDaddy Online Services Cayman Islands Ltd.,16/09/2002 04:53,16/09/2026 04:54
+b80d2271-cc52-467c-82c6-db5d3ff4af5b,branded.net,premium,21321,,72,24,7,GoDaddy Online Services Cayman Islands Ltd.,16/09/2002 04:53,16/09/2026 04:54
 7f14fd5c-99fe-40a4-9022-8fa897634c09,silklined.net,premium,,,52,72,10,,,
 6a87fc29-639c-411a-bf92-dbd82dfda9aa,kegelballs.net,premium,,,52,72,11,,,
 cff5e23d-b85f-4f5b-bd51-19c835e6480a,allweathertire.net,premium,,,54,72,16,,,
@@ -3716,7 +3715,7 @@ fcf2da6c-7f71-4b01-97c8-ff3ac1c5e58d,crowdfund.net,resell,,,64,84,9,"GoDaddy.com
 afedccb6-bcc6-4605-a5a0-c68e3e80faa1,workhorse.net,resell,,,56,88,9,"GoDaddy.com, LLC",10/12/1997 05:00,09/12/2026 05:00
 e37f9aac-c72c-474f-a1af-7ab9707d1870,tryingon.net,premium,,,56,72,9,,,
 eb89b37a-f91d-4baf-9f2c-dd5a74881283,milkshake.net,resell,,,90,80,9,Dynadot Inc,21/01/1999 05:00,21/01/2026 05:00
-eb41273c-7e9f-466d-a6c7-44933f015a0b,convenient.net,premium,4471.2,23.99,78,9,10,Annulet LLC,07/03/2004 19:27,07/03/2027 19:27
+eb41273c-7e9f-466d-a6c7-44933f015a0b,convenient.net,premium,4471.2,23.99,78,10,10,Annulet LLC,07/03/2004 19:27,07/03/2027 19:27
 d35c64e4-9f7c-47fc-bdf0-b148e541b4ac,dayschool.net,premium,,,64,76,10,Annulet LLC,17/10/2004 18:17,17/10/2025 18:17
 efe5cabd-02aa-4c2c-96c6-6f349bb22567,sixmonthclub.net,premium,,,,72,14,,,
 2e0eb930-f47f-4f83-87aa-9ffce3d1165d,Iamafraidofthis.net,premium,,,48,1,19,,,
@@ -4620,7 +4619,7 @@ a5bac865-e97f-48e0-aeb2-b24a41b15e18,rootbeer.net,resell,,,,88,9,"GoDaddy.com, L
 418605d4-6ad0-416b-ac2d-785dbb0db23e,touchbottom.net,premium,,,,72,12,,,
 e2a912fb-44af-4b56-842e-fcf9f1b00d37,BristolCounty.net,premium,,,44,8,14,,,
 f6e40564-9de1-4dc4-9b7a-e15a62e22104,newsreading.net,premium,,,,4,11,,,
-303f3fcd-6610-4d23-b30a-02284efbd917,bush.net,premium,17767.5,,64,18,4,GoDaddy Online Services Cayman Islands Ltd.,08/02/2000 11:38,08/02/2027 11:38
+303f3fcd-6610-4d23-b30a-02284efbd917,bush.net,premium,17767.5,,64,19,4,GoDaddy Online Services Cayman Islands Ltd.,08/02/2000 11:38,08/02/2027 11:38
 42e6b7a6-2596-44c2-8516-edda3dd40611,confidencemotion.net,premium,,,54,72,17,,,
 66cae174-56a8-4665-9d33-f90c02fbe874,kangarooacacia.net,premium,,,62,72,15,,,
 bc71cdc6-92d8-410f-a342-59eeffd201ee,aims.net,resell,,,44,52,4,"GoDaddy.com, LLC",08/09/1995 04:00,07/09/2026 04:00
@@ -6291,7 +6290,7 @@ da2d2ca9-40f5-4c9c-9499-c326853fc50c,seductiveness.net,premium,,,,72,13,,,
 dce5e347-dff5-4441-b8d3-8149454f9f52,cassandra.net,resell,,,64,76,9,Epik LLC,14/03/2004 19:01,14/03/2026 18:01
 9a2e3c3f-692e-45b8-a6f7-bad0880c8382,poppyred.net,premium,,,,8,9,,,
 abd75f0d-8f0f-4ee6-aaef-221b083d1b50,edwardi.net,premium,,,58,72,8,,,
-508d0220-a076-4800-91a4-0b1207e9c2d8,apart.net,resell,,,78,16,5,"Sea Wasp, LLC",15/08/1995 04:00,14/08/2026 04:00
+508d0220-a076-4800-91a4-0b1207e9c2d8,apart.net,resell,,,78,17,5,"Sea Wasp, LLC",15/08/1995 04:00,14/08/2026 04:00
 d37bc34d-07a9-42f7-9c8e-a170b37f1145,dropcake.net,premium,,,56,76,9,,,
 753c8115-0e49-4e18-8b8a-3bf6b0dd1476,microcassette.net,premium,,,56,72,13,,,
 caf26b43-176c-4505-bb88-9ba512c7b3c4,Copernicansystem.net,premium,,,58,72,17,,,
@@ -6726,7 +6725,7 @@ e2cdf8b6-224d-478e-bb00-0cceeba78400,proxies.net,resell,,,,56,7,"Name.com, Inc."
 520b23d1-94e2-4ad7-9d4b-ad9be5d0e09e,trapezoidalrule.net,premium,,,58,76,16,,,
 c858ef74-e3d7-4dd5-a7dd-0a1ee61eb08f,outreaching.net,resell,,,64,80,11,GoDaddy Online Services Cayman Islands Ltd.,30/05/2020 07:50,30/05/2026 07:50
 6f83a001-e9f9-454d-a39a-3ef2b089e1fa,verbal.net,resell,,,104,9,6,"GoDaddy.com, LLC",31/10/2000 11:55,30/06/2026 11:59
-f110c5d8-f6f7-4fd4-994a-21d389f25b7a,cheap.net,resell,,,110,31,5,"GoDaddy.com, LLC",21/04/1998 04:00,20/04/2027 04:00
+f110c5d8-f6f7-4fd4-994a-21d389f25b7a,cheap.net,resell,,,110,30,5,"GoDaddy.com, LLC",21/04/1998 04:00,20/04/2027 04:00
 50061c56-f253-476f-81c4-5da37679bed4,windowpaned.net,premium,,,,4,11,,,
 8999fcf4-8e9a-4055-9441-e0e231e387d1,unitization.net,resell,,,,72,11,"GoDaddy.com, LLC",15/01/2018 05:02,15/01/2026 05:02
 8302f5dd-0036-4ace-adc9-05a1bd2e9131,Fretherne.net,premium,,,48,72,9,,,
@@ -6983,7 +6982,7 @@ bd1ea7ce-8054-4710-977a-64689877fe4f,wantedcargo.net,premium,,,,4,12,,,
 a121f4c7-85e0-4119-a119-1b6b19e26237,nestmaking.net,premium,,,,8,10,,,
 e6a9c2e0-ddc0-4e37-a915-d0de6421ad8a,cherubimical.net,premium,,,58,72,12,,,
 3c0b3b75-d629-4bae-905f-663c95dee716,bringing.net,resell,,,66,3,8,"eNom, LLC",15/06/2003 15:33,15/06/2026 15:33
-b5fb7f55-1c9e-4908-ae38-5a63476554fe,bound.net,premium,30797,,64,18,5,GoDaddy Online Services Cayman Islands Ltd.,23/02/2000 11:40,23/02/2027 11:40
+b5fb7f55-1c9e-4908-ae38-5a63476554fe,bound.net,premium,30797,,64,19,5,GoDaddy Online Services Cayman Islands Ltd.,23/02/2000 11:40,23/02/2027 11:40
 2e76b8d2-bad7-4e00-8773-b8161658819d,parkinglight.net,premium,,,54,72,13,,,
 ab498dff-d938-4e32-8dc2-37e8578d16f2,swungdash.net,premium,,,52,72,10,,,
 4aa2baf8-db46-4603-8ea1-9343e011f7a9,cabinbed.net,premium,,,58,72,9,,,
@@ -7376,7 +7375,7 @@ dbeb2c6a-69d0-41dd-8cdd-526af409cfc2,illuminated.net,resell,,,72,9,11,DomainSpot
 1a814e25-cee9-4496-a981-58fa1914cb35,alphalactams.net,premium,,,34,4,13,,,
 136067c7-9d36-4c67-85b9-26fc9ce32af2,bodysuited.net,premium,,,50,4,10,,,
 e98cdf5e-e7a0-4580-a472-baaf1608f818,rotarycannon.net,premium,,,,4,13,,,
-64ac392f-65ad-4fa6-9753-f831553cb307,creature.net,premium,16583,,72,24,8,GoDaddy Online Services Cayman Islands Ltd.,06/05/2005 18:03,06/05/2027 18:03
+64ac392f-65ad-4fa6-9753-f831553cb307,creature.net,premium,16583,,72,25,8,GoDaddy Online Services Cayman Islands Ltd.,06/05/2005 18:03,06/05/2027 18:03
 07054007-cf42-413c-9dd7-1e502ce1b2a0,bottomry.net,premium,,,50,8,8,,,
 5048604d-348c-4a60-922a-244d4247ba9e,innocently.net,premium,,,56,72,10,,,
 23fff339-6060-4700-92ba-718a76dc365b,chelaship.net,premium,,,56,4,9,,,
@@ -7560,7 +7559,7 @@ cd7df91b-e71a-4502-b2ea-89f814ffffad,taxable.net,resell,,,72,76,7,"Sea Wasp, LLC
 5b2efd8e-3193-4d53-b88c-cf18456b1aa4,catchtheeye.net,premium,,,66,76,13,,,
 5f611242-0464-4872-a25d-ff3785c7aa88,wellturned.net,premium,,,,72,11,,,
 8dc1047d-fb80-4e8b-b9cd-47bfc31ac098,onashoestring.net,premium,,,60,72,15,,,
-62da802f-28d4-4ae4-a08e-4e7c6832dd7e,colored.net,premium,10660.5,,72,9,7,GoDaddy Online Services Cayman Islands Ltd.,02/08/2002 22:42,02/08/2026 22:42
+62da802f-28d4-4ae4-a08e-4e7c6832dd7e,colored.net,premium,10660.5,,72,8,7,GoDaddy Online Services Cayman Islands Ltd.,02/08/2002 22:42,02/08/2026 22:42
 ac4ab5c2-a501-4277-b2fc-9aea0283696d,feminism.net,resell,,,72,7,8,"NameSilo, LLC",19/01/1997 05:00,20/01/2027 05:00
 8f9b04e1-8aed-46ae-b0a8-e738c564ede8,elfinwood.net,premium,,,64,72,10,,,
 b5644351-e39b-4f5b-9d58-8084971d2d3f,benignity.net,premium,,,62,72,9,,,
@@ -7835,7 +7834,7 @@ fd37970a-3244-4fcc-bb5e-8f3e615d4d18,interestinland.net,premium,,,58,72,16,,,
 e69c2b0a-1fa4-4582-a8ff-4e5a492cecad,daisychaining.net,premium,,,40,8,14,,,
 e0aa432b-f39a-43fe-a552-4ae9244a0e34,acceptable.net,resell,34960,23.99,78,7,10,"Spaceship, Inc.",16/01/2001 11:36,16/01/2027 11:36
 7458f494-0054-4d24-a4e5-f20b2c5a848d,comeupfrombehind.net,premium,,,64,72,19,,,
-ff0c2b01-a7a0-423f-a147-f3218817edda,after.net,premium,34350.5,,86,28,5,GoDaddy Online Services Cayman Islands Ltd.,05/03/1999 05:00,05/03/2027 05:00
+ff0c2b01-a7a0-423f-a147-f3218817edda,after.net,premium,34350.5,,86,27,5,GoDaddy Online Services Cayman Islands Ltd.,05/03/1999 05:00,05/03/2027 05:00
 d74f6c7f-cd18-4c27-a010-b51646834f71,backwheel.net,premium,,,64,72,10,,,
 bbb3452e-ab69-46c4-bbc4-e009fa23b335,multiculturalist.net,premium,,,70,72,16,,,
 23c3760c-927e-4f9b-854d-1c9a0d539da3,goldeneyes.net,resell,,,36,32,10,"NameSilo, LLC",19/12/2023 19:24,19/12/2025 19:24
@@ -8681,7 +8680,7 @@ d3071bb5-fa5e-4eb6-9d7d-08b790fc375a,crosstriathlon.net,premium,,,50,4,15,,,
 e482a1af-c1dd-4f5f-9349-f6858afc1892,galore.net,resell,,,84,84,6,"GoDaddy.com, LLC",13/05/1997 04:00,14/05/2026 04:00
 c594d69e-f346-47b5-bf27-687d1af06763,Chinesebrownsauce.net,premium,,,50,72,19,,,
 fdab151a-4b6c-4e77-aeed-12ca56dcedea,coverfor.net,premium,,,68,72,9,,,
-e568015f-8e0f-422d-b704-957dfc637373,animating.net,resell,,,72,3,9,"Sav.com, LLC",10/06/2002 13:30,10/06/2026 13:30
+e568015f-8e0f-422d-b704-957dfc637373,animating.net,resell,,,72,4,9,"Sav.com, LLC",10/06/2002 13:30,10/06/2026 13:30
 c0444c36-80b9-436b-8161-dc720bc47a8d,stiffly.net,premium,,,55,72,7,,,
 67b5ca71-b401-46cf-a3c4-72268eb451df,mainsheettrimmer.net,premium,,,36,4,17,,,
 13e65cc2-e3dc-41b1-83e7-c14a427abf8a,baseballrule.net,premium,,,66,4,13,,,
@@ -9277,7 +9276,7 @@ da1b02a3-c027-4949-a459-1e4ccb6b6899,courtcosts.net,premium,,,54,8,11,,,
 213066e4-001d-4f98-9d1e-ce2f63fb11e2,grayasexuality.net,premium,,,52,72,15,,,
 3b1e1c3e-b780-4209-a57e-7a9c4a7cd3d1,babirusa.net,premium,,,56,72,8,,,
 14396c58-b686-4a8d-86a1-8609963a6a97,Frenchstick.net,premium,,,60,76,12,,,
-48665880-3043-4aa8-b2af-57d75ddc03c0,authorised.net,resell,,,70,3,10,"GoDaddy.com, LLC",03/04/2004 19:34,03/04/2027 18:34
+48665880-3043-4aa8-b2af-57d75ddc03c0,authorised.net,resell,,,70,4,10,"GoDaddy.com, LLC",03/04/2004 19:34,03/04/2027 18:34
 25c72ff4-fda8-4db6-a6ae-e60ede66d12f,paperflier.net,premium,,,64,72,11,,,
 cff56ac2-efd1-4769-88c3-3eeb0ab2f87e,practicalnurse.net,premium,,,76,1,15,,,
 cacae872-86a4-4687-a93a-8c4890cb4309,GreaterSudbury.net,resell,,,52,72,15,GoDaddy Online Services Cayman Islands Ltd.,31/01/2014 07:36,04/02/2026 11:59
@@ -9895,7 +9894,7 @@ b2b979cf-9e6a-433c-99a6-4d46bd032cb7,approbate.net,premium,,,72,72,9,,,
 31df8f54-317b-4d8b-a500-a4b3349937b6,striving.net,premium,,,62,76,8,Annulet LLC,17/01/2004 19:10,17/01/2026 19:10
 bb48ea45-4d9e-44d7-8b4c-e608291ed8e8,prevailing.net,resell,,,64,76,10,Dynadot Inc,04/11/2017 18:38,04/11/2025 18:38
 d4323e82-47d6-4e15-85af-79d4b89c613d,yeastlike.net,premium,,,54,72,9,,,
-8bb6f321-3b42-46f0-92fc-582615dc8290,prank.net,resell,,,106,13,5,"Sea Wasp, LLC",14/02/2001 11:32,14/02/2027 11:32
+8bb6f321-3b42-46f0-92fc-582615dc8290,prank.net,resell,,,106,14,5,"Sea Wasp, LLC",14/02/2001 11:32,14/02/2027 11:32
 8d2e0dec-3c93-49f6-9bdf-f4ee5a896e2b,Creolecreamcheese.net,premium,,,68,72,19,,,
 92c0796a-afa7-4581-b3fa-d6e218cff8e7,downplaying.net,premium,,,54,72,11,,,
 accdd134-1a1a-4a46-8d40-b56fc2544d16,feeloneself.net,premium,,,,72,12,,,
@@ -9999,3 +9998,4 @@ d9d8b4aa-342d-4e62-8795-10661c9bfc16,massstart.net,premium,,,60,72,10,,,
 ecd7fd0b-f8b9-44fb-af05-8ec9fa42b6a8,northernbilberry.net,premium,,,56,72,17,,,
 23215d8b-afdb-430c-8d61-b41080a29f2b,consumes.net,premium,,,42,72,8,,,
 41124a2e-599b-4815-b9a5-a52f7d0531c2,fittoburst.net,premium,,,54,72,12,,,
+cef223ff-96f7-4ecf-b581-d46c8bfb6e73,unsurpassably.net,premium,,,58,72,13,,,
