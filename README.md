@@ -1,10 +1,10 @@
-# Available .NET One-Word Domains (37,557)
+# Available .NET One-Word Domains (37,547)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C557%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C547%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .net one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **37,557 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **37,547 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 37,557 domains
+**Public extract:** 1,000 rows · **Live catalog:** 37,547 domains · **Median ask:** $17,818.29 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/net`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                   |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| howcome.net       | available | $16.49     | —             | 58             | 8      | 8      | name.com                                    |
-| behold.net        | resell    | —          | —             | 96             | 96     | 6      | Spaceship, Inc.                             |
-| gods.net          | premium   | $22,505.50 | —             | 72             | 27     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| closetohome.net   | available | $16.49     | —             | 56             | 6      | 13     | name.com                                    |
-| resource.net      | resell    | —          | —             | 86             | 96     | 8      | Dynadot Inc                                 |
-| refresh.net       | premium   | $41,457.50 | —             | 80             | 26     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
-| generalpublic.net | available | $16.49     | —             | 66             | 5      | 14     | name.com                                    |
-| valor.net         | resell    | —          | —             | 76             | 96     | 5      | GoDaddy.com, LLC                            |
-| mexican.net       | premium   | $17,767.50 | —             | 70             | 23     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
-| howdoyoulike.net  | available | $16.49     | —             | 52             | 5      | 15     | name.com                                    |
-| fem.net           | resell    | —          | —             | 72             | 92     | 3      | GoDaddy.com, LLC                            |
-| hover.net         | premium   | $41,457.50 | —             | 62             | 23     | 5      | GoDaddy Online Services Cayman Islands Ltd. |
-| sinkin.net        | available | $16.49     | —             | 76             | 4      | 7      | name.com                                    |
-| sysadmin.net      | resell    | —          | —             | 60             | 92     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
-| wealthy.net       | premium   | $42,642    | —             | 78             | 22     | 7      | GoDaddy.com, LLC                            |
-| stared.net        | available | $16.49     | —             | 56             | 4      | 6      | name.com                                    |
-| sweety.net        | resell    | —          | —             | 70             | 88     | 6      | NameSilo, LLC                               |
-| brothers.net      | premium   | $33,166    | —             | 60             | 22     | 8      | GoDaddy Online Services Cayman Islands Ltd. |
-| thereandback.net  | available | $16.49     | —             | 44             | 4      | 14     | name.com                                    |
-| wallace.net       | resell    | —          | —             | 60             | 88     | 7      | Epik LLC                                    |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| makehappen.net  | available | $16.49     | —             | 80             | 3      | 11     | name.com                                    |
+| settledown.net  | available | $16.49     | —             | 80             | 2      | 11     | name.com                                    |
+| year.net        | premium   | $65,147.50 | —             | 88             | 14     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
+| refresh.net     | premium   | $41,457.50 | —             | 80             | 26     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
+| pierogi.net     | premium   | $3,065.49  | —             | 82             | 7      | 7      | Annulet LLC                                 |
+| butterflies.net | premium   | $20,136.50 | —             | 90             | 8      | 11     | GoDaddy Online Services Cayman Islands Ltd. |
+| primarycare.net | premium   | $10,660.50 | —             | 81             | 11     | 12     | GoDaddy Online Services Cayman Islands Ltd. |
+| Acup.net        | resell    | —          | —             | 80             | 5      | 5      | GoDaddy.com, LLC                            |
+| gearup.net      | resell    | —          | —             | 80             | 16     | 7      | Wild West Domains, LLC                      |
+| chaitea.net     | resell    | —          | —             | 86             | 3      | 8      | GoDaddy.com, LLC                            |
+| keepfit.net     | resell    | —          | —             | 86             | 9      | 8      | GoDaddy.com, LLC                            |
+| backyard.net    | resell    | —          | —             | 80             | 27     | 9      | GoDaddy Online Services Cayman Islands Ltd. |
+| takepart.net    | resell    | —          | —             | 80             | 5      | 9      | GoDaddy.com, LLC                            |
+| cometrue.net    | resell    | —          | —             | 82             | 5      | 9      | Spaceship, Inc.                             |
+| makelove.net    | resell    | —          | —             | 88             | 10     | 9      | SNAPNAMES 4, LLC                            |
+| commercial.net  | resell    | —          | —             | 81             | 26     | 10     | GoDaddy.com, LLC                            |
+| getmarried.net  | resell    | —          | —             | 88             | 5      | 11     | GoDaddy.com, LLC                            |
+| information.net | resell    | —          | —             | 88             | 26     | 11     | GoDaddy.com, LLC                            |
+| comicrelief.net | resell    | —          | —             | 80             | 5      | 12     | Dynadot Inc                                 |
+| thanksalot.net  | resell    | —          | —             | 80             | 3      | 12     | DropCatch.com 1069 LLC                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 37,557 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 37,547 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on .net domains. The names range from short dictionary words such as year.net and refresh.net to more descriptive or phrase-led options like primarycare.net, makehappen.net, and settledown.net. For founders, the main question is whether a .net version is memorable enough for direct brand use. For investors, the key is whether the word quality, category fit, and ask leave room relative to likely end-user demand. With a median ask of $17,818, price discipline matters. When comparing these domains, weigh brevity, spelling ease, commercial intent, and whether the wording feels timeless rather than niche or trend-bound.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Single-word .net names tend to be clearer and more reusable
+- Phrase .net domains can fit exact-use cases but narrow buyer depth
+- Median ask is $17,818, so price selectivity matters
+- Check spelling, category fit, and trademark exposure first
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NET One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NET One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
