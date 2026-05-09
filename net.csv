@@ -107,7 +107,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 35df7182-514f-4c49-b444-b4538731b875,propagated.net,resell,,,54,1,10,"Sav.com, LLC - 18",08/02/2026 19:53,08/02/2027 19:53
 36411414-1a5c-448b-84e5-2b2333feecf0,trends.net,resell,,,60,32,6,"GoDaddy.com, LLC",10/09/2018 18:49,10/09/2026 18:49
 365cd17f-10e1-48a6-9b05-16a3ef84fe72,longlasting.net,resell,,,68,3,12,"TurnCommerce, Inc. DBA NameBright.com",24/01/2021 19:01,24/01/2027 19:01
-3686cbd0-d1d6-43cf-8675-a299eb0294ce,unveil.net,premium,10660.5,,76,18,6,GoDaddy Online Services Cayman Islands Ltd.,19/03/2004 19:54,19/03/2027 18:54
+3686cbd0-d1d6-43cf-8675-a299eb0294ce,unveil.net,premium,10660.5,,76,19,6,GoDaddy Online Services Cayman Islands Ltd.,19/03/2004 19:54,19/03/2027 18:54
 36bbc786-d81e-43fc-b7ff-045f8c775eb4,toys.net,resell,,,60,24,4,GoDaddy Online Services Cayman Islands Ltd.,05/06/1996 04:00,04/06/2027 04:00
 387adb22-d414-485c-923d-ae4b52f36d99,inspired.net,resell,,,78,31,8,"NameCheap, Inc.",24/01/2001 11:35,24/01/2027 11:35
 38a421f9-33a6-4e0b-ab2a-e297e7509d1d,establishes.net,resell,,,50,1,11,"GoDaddy.com, LLC",22/06/2003 18:18,22/06/2026 18:18
@@ -411,7 +411,7 @@ cdd94cf0-e523-4c1f-a61a-66d67c2d325e,gearup.net,resell,,,80,16,7,"Wild West Doma
 ced27333-61c2-47cc-bdc2-6b335833cbfc,savinggrace.net,resell,,,76,7,12,"GoDaddy.com, LLC",16/04/2002 00:52,16/04/2027 00:52
 cf51dee4-c90c-4bef-bd5b-3f1a011f2682,makingwaves.net,resell,,,64,7,12,"Sea Wasp, LLC",30/06/2001 10:54,30/06/2026 10:54
 d029b17b-8b6c-45c8-9e83-f45cc800edf6,cucumbers.net,premium,2828.59,,74,4,9,Annulet LLC,08/04/2004 18:35,08/04/2027 18:35
-d0ed840c-78ce-4659-b693-b0fa8a643a14,appoint.net,premium,21321,,78,10,7,GoDaddy Online Services Cayman Islands Ltd.,24/06/2003 18:10,24/06/2026 18:10
+d0ed840c-78ce-4659-b693-b0fa8a643a14,appoint.net,premium,21321,,78,9,7,GoDaddy Online Services Cayman Islands Ltd.,24/06/2003 18:10,24/06/2026 18:10
 d10c286d-24cd-47e4-ae1a-ed3911e0180f,filein.net,available,16.49,,68,2,7,name.com,,
 d18ae5ad-5664-43df-8e35-f120add98775,overwith.net,available,16.49,,60,1,9,name.com,,
 d19ba534-cdf4-4569-9ba7-29a3d4616f0b,stockings.net,premium,21321,,58,6,9,GoDaddy Online Services Cayman Islands Ltd.,03/04/2000 10:50,03/04/2027 10:50
@@ -486,13 +486,13 @@ efa98b70-8086-4c53-b7cf-45d29150fbd6,refresh.net,premium,41457.5,,80,26,7,GoDadd
 f0341d93-faa3-439c-a122-7c1ea7562224,somuchfor.net,available,16.49,,46,0,11,name.com,,
 f03a41e4-d59f-4b5e-9121-f63b7f1bfb6a,investors.net,resell,,,60,23,9,"NameCheap, Inc.",15/07/1995 04:00,04/01/2033 19:38
 f0440f76-bd00-4c22-ae93-f6bfba64be45,stormed.net,resell,,,50,3,7,"NameCheap, Inc.",23/10/2012 16:24,23/10/2026 16:24
-f09c1be0-bb1a-49c5-8930-008e167c2759,hover.net,premium,41457.5,,62,23,5,GoDaddy Online Services Cayman Islands Ltd.,14/11/2001 00:27,14/11/2027 00:27
+f09c1be0-bb1a-49c5-8930-008e167c2759,hover.net,premium,41457.5,,62,24,5,GoDaddy Online Services Cayman Islands Ltd.,14/11/2001 00:27,14/11/2027 00:27
 f11b373b-778f-40ce-8cc1-06f1d6a60574,stepdown.net,available,16.49,,74,2,9,name.com,,
 f14a7088-daa3-47b4-8f6b-2313e699f770,privatelife.net,resell,,,78,4,12,Dynadot Inc,08/05/2003 18:05,08/05/2027 18:05
 f1ea3353-4b62-458b-a899-c39e8370a19c,Acup.net,resell,,,80,5,5,"GoDaddy.com, LLC",10/10/2001 03:12,10/10/2026 03:12
 f263efee-8e90-4dd7-878c-a771999c9b9c,year.net,premium,65147.5,,88,14,4,GoDaddy Online Services Cayman Islands Ltd.,07/08/1998 04:00,06/08/2031 04:00
 f2d15bc0-c24f-4abf-ab24-67a601831067,synthesized.net,resell,,,57,3,11,"Spaceship, Inc.",18/04/2023 18:04,18/04/2027 18:04
-f30fb74c-bf45-4b1d-9323-efe3b39678c4,typing.net,premium,236900,,70,17,6,GoDaddy Online Services Cayman Islands Ltd.,01/10/1999 05:03,01/10/2031 05:03
+f30fb74c-bf45-4b1d-9323-efe3b39678c4,typing.net,premium,236900,,70,16,6,GoDaddy Online Services Cayman Islands Ltd.,01/10/1999 05:03,01/10/2031 05:03
 f3eb621e-48ad-43ef-99b1-bd738904445f,slipped.net,resell,,,70,3,7,"GoDaddy.com, LLC",24/03/2024 15:55,24/03/2027 15:55
 f43dda92-681d-4027-9d3d-c80cf8f7db98,lentils.net,premium,3065.49,,56,4,7,Annulet LLC,07/05/2002 17:06,07/05/2027 17:06
 f567738f-e619-4eae-8368-697a0ae036c9,pastasauce.net,available,16.49,,79,2,11,name.com,,
