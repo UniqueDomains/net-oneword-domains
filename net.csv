@@ -143,6 +143,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4b25408f-fe0f-4612-a4e1-1275159abb83,MerryXmas.net,resell,,,70,4,10,"GoDaddy.com, LLC",15/01/2006 19:03,31/12/2026 11:59
 4b83ea7d-1c02-4066-834c-0fd0fb1dfab1,variables.net,premium,2828.59,,50,6,9,Annulet LLC,10/04/2004 18:39,10/04/2027 18:39
 4be036ee-ba8b-4184-9238-7c49a8e26cb3,cocks.net,premium,65147.5,,56,10,5,GoDaddy Online Services Cayman Islands Ltd.,22/10/1997 04:00,21/10/2027 04:00
+4c4644ac-fb49-4ee8-921a-36eb54c92786,IDcard.net,premium,81730.5,,72,8,7,"GoDaddy.com, LLC",26/10/2002 05:30,26/10/2028 05:30
 4c816e68-d084-4333-b2d5-3b11cf14088a,prisms.net,resell,,,56,7,6,"NameSilo, LLC",08/12/2002 07:18,08/12/2026 07:18
 4c8647e8-69f9-4539-82ea-8c0755a3cf6b,thethingis.net,resell,,,48,2,12,"GoDaddy.com, LLC",03/08/2013 22:23,03/08/2026 22:23
 4cccbf95-bed4-4880-bfbd-fd57d7745b00,travellers.net,premium,16583,,53,11,10,GoDaddy Online Services Cayman Islands Ltd.,04/03/1999 05:00,04/03/2027 05:00
@@ -365,6 +366,7 @@ b38f182b-4155-4393-811b-ceb869472670,waitout.net,available,16.49,,63,1,8,name.co
 b3cf76e1-8b51-40dd-aa5a-5c6dbfede475,disobedience.net,resell,,,64,3,12,"GoDaddy.com, LLC",01/06/2013 15:22,01/06/2026 15:22
 b484cdd6-7b81-4b46-b6ab-9db446426d30,scanners.net,resell,,,53,7,8,Namespro Solutions Inc.,26/02/1997 05:00,27/02/2029 05:00
 b4eae0f5-3b1d-4c39-8ecc-4f0565d7f03c,TyphoidMary.net,available,18.58,,59,1,12,namecheap,,
+b5410587-555c-4d13-994b-22710128e4f7,qualitative.net,resell,,,78,6,11,"GoDaddy.com, LLC",02/09/2003 18:22,02/09/2027 18:22
 b59f1553-a9e8-4439-babf-cf6faf40f838,suggested.net,resell,,,64,5,9,"eNom, LLC",17/06/2008 18:06,17/06/2026 18:06
 b5df53c4-a3fe-46f2-9ae7-35437f5ce5f1,walktheline.net,available,16.49,,68,3,13,name.com,,
 b69599e3-7c02-4cc2-96af-75cbe6de691e,catered.net,premium,4842.24,,56,5,7,Annulet LLC,20/03/2005 19:24,20/03/2027 18:24
@@ -437,6 +439,7 @@ da2c2c32-2e0e-4a24-860e-5d76479b0383,destinies.net,resell,,,72,4,9,"GoDaddy.com,
 dbe3fb64-c21e-4da7-ac59-853ebdc49002,leaveover.net,available,16.49,,70,1,10,name.com,,
 dce7558c-7aa0-447b-988f-a7280b81ca86,costcontrol.net,premium,1170.29,,52,4,12,Annulet LLC,02/06/2003 18:11,02/06/2026 18:11
 ded84b8b-fa38-4095-9d00-1ecb6b9c7968,demonstrating.net,resell,,,48,1,13,"eNom, LLC",05/08/2004 18:37,05/08/2027 18:37
+dedf0251-f39e-49b9-b22d-b7db377f7b35,Mario.net,premium,59225,,80,35,5,GoDaddy Online Services Cayman Islands Ltd.,11/01/2000 23:49,11/01/2033 23:49
 deedbd23-db52-4291-99d7-94b3f91568a5,punched.net,resell,,,50,3,7,Key-Systems GmbH,07/09/2010 18:50,07/09/2026 18:50
 df0dd8b9-d9fa-4c6e-99e6-d1c2199a16ed,counts.net,premium,6026.74,,76,8,6,Annulet LLC,03/01/1999 05:00,03/01/2027 05:00
 df56c074-b9a2-4c7b-8f0e-9ab919372479,straws.net,resell,,,54,6,6,"eNom, LLC",23/06/2002 04:14,23/06/2026 04:19
@@ -639,7 +642,7 @@ f13f94f8-d32d-4547-adad-021e539b8697,mongolic.net,premium,,,64,72,8,,,
 ce242089-61c7-4d67-94f2-939b01fcc647,longness.net,premium,,,52,72,8,,,
 c4c729f4-4111-41ae-b8eb-064825befad8,doubleyellowline.net,premium,,,56,72,18,,,
 e1329a51-ba79-41fb-88e9-ee97cb2b47c0,streetskating.net,premium,,,,8,14,,,
-4bddbf2b-9bfb-430f-bed7-b59078b22217,these.net,resell,,,58,13,5,Whois Corp.,03/01/2000 13:10,03/01/2027 13:10
+4bddbf2b-9bfb-430f-bed7-b59078b22217,these.net,resell,,,58,12,5,Whois Corp.,03/01/2000 13:10,03/01/2027 13:10
 6f269192-0c2d-43b8-bcd0-ecd85b00cad8,catsalt.net,premium,,,58,72,8,,,
 c270709c-832a-4a5d-8f60-75b21492bb95,frowns.net,premium,,,38,4,6,,,
 45ce2f70-3780-4efa-9666-87e8813462f9,workingparty.net,premium,,,,20,13,,,
@@ -996,6 +999,3 @@ f38dae3a-77fc-4528-9eb4-b9c750902b9f,freesoftware.net,resell,,,70,84,13,"Sea Was
 996833b7-5766-43f4-b1fb-98d49b3db2da,retronoir.net,premium,,,,8,10,,,
 75411a07-af1c-4579-bf34-07b8a99cc2e0,jailhouselawyer.net,premium,,,52,72,16,,,
 14ecb8dd-e273-4180-8772-b188cbb9e0fe,valvesnail.net,premium,,,,72,11,,,
-3bbe6542-b539-461c-a1f5-7cc98d3c5650,rehabber.net,premium,,,58,76,8,,,
-874e43bb-7603-4e6b-9e9c-1270819f5cb7,Kirkconnel.net,premium,,,48,72,10,,,
-f86ea62d-d97d-42dc-9afa-4ff781ea3193,discofries.net,premium,,,52,8,11,,,
