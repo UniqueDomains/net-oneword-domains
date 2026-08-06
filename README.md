@@ -1,10 +1,10 @@
-# Available .NET One-Word Domains (37,566)
+# Available .NET One-Word Domains (37,604)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C566%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C604%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .net one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **37,566 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **37,604 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 37,566 domains · **Median ask:** $6,348.86 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 37,604 domains · **Median ask:** $5,259.24 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/net`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | trade.net         | resell    | —          | —             | high           | medium | 5      | Tucows Domains Inc.                         |
 | taste.net         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                            |
-| evenout.net       | available | $16.49     | —             | high           | low    | 8      | name.com                                    |
+| amnionic.net      | available | $12.48     | $18.58        | low            | low    | 8      | namecheap                                   |
 | carhire.net       | resell    | $17,582.35 | $23.99        | medium         | high   | 8      | Tucows Domains Inc.                         |
 | asof.net          | premium   | $4,816.20  | $23.99        | medium         | low    | 5      | Annulet LLC                                 |
-| Igirder.net       | available | $18.58     | —             | medium         | low    | 8      | namecheap                                   |
+| evenout.net       | available | $16.49     | —             | high           | low    | 8      | name.com                                    |
 | privateequity.net | resell    | $201,250   | $23.99        | medium         | high   | 14     | GoDaddy.com, LLC                            |
 | urban.net         | premium   | $52,670    | $23.99        | medium         | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
-| intruth.net       | available | $16.49     | —             | medium         | low    | 8      | name.com                                    |
+| Igirder.net       | available | $18.58     | —             | medium         | low    | 8      | namecheap                                   |
 | add.net           | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
-| altered.net       | premium   | $1,941.20  | $19.99        | high           | low    | 7      | DomainAdministration.com, LLC               |
-| letknow.net       | available | $15.95     | $15.95        | high           | low    | 8      | namesilo                                    |
+| altered.net       | premium   | $1,999.44  | $23.99        | low            | low    | 7      | DomainAdministration.com, LLC               |
+| intruth.net       | available | $16.49     | —             | medium         | low    | 8      | name.com                                    |
 | bib.net           | resell    | —          | —             | high           | high   | 3      | Dynadot Inc                                 |
 | vampire.net       | premium   | $34,350.50 | —             | medium         | low    | 7      | GoDaddy Online Services Cayman Islands Ltd. |
-| vergeon.net       | available | $16.49     | —             | low            | low    | 8      | name.com                                    |
+| letknow.net       | available | $15.95     | $15.95        | high           | low    | 8      | namesilo                                    |
 | dad.net           | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
 | wealthy.net       | premium   | $42,642    | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
-| burnunit.net      | available | $15.95     | $15.95        | medium         | low    | 9      | namesilo                                    |
+| maledict.net      | available | $12.48     | $18.58        | low            | low    | 8      | namecheap                                   |
 | fem.net           | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC                            |
-| apologize.net     | premium   | $28,750    | $23.99        | high           | low    | 9      | Network Solutions, LLC                      |
+| affective.net     | premium   | $4,131.54  | $23.99        | low            | low    | 9      | Annulet LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 37,566 live domains                        |
+| 1,000-row public sample | 37,604 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 30 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NET One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NET One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
