@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .net one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 42,140 domains · **Median ask:** $2,128.72 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/net`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                   |
 | ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| trade.net         | resell    | —          | —             | high           | medium | 5      | Tucows Domains Inc.                         |
+| taste.net         | resell    | —          | —             | high           | low    | 5      | GoDaddy.com, LLC                            |
 | aweary.net        | available | $12.48     | $18.58        | low            | low    | 6      | namecheap                                   |
 | carhire.net       | resell    | $17,582.35 | $23.99        | medium         | high   | 8      | Tucows Domains Inc.                         |
 | asof.net          | premium   | $4,816.20  | $23.99        | medium         | low    | 5      | Annulet LLC                                 |
@@ -73,17 +75,15 @@ print(df.head())
 | briery.net        | available | $12.48     | $18.58        | low            | low    | 6      | namecheap                                   |
 | add.net           | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
 | altered.net       | premium   | $1,999.44  | $23.99        | low            | low    | 7      | DomainAdministration.com, LLC               |
-| ribald.net        | available | $12.48     | $18.58        | low            | low    | 6      | namecheap                                   |
+| meekly.net        | available | $11.98     | $18.58        | low            | low    | 6      | namecheap                                   |
 | bib.net           | resell    | —          | —             | high           | high   | 3      | Dynadot Inc                                 |
 | vampire.net       | premium   | $34,350.50 | —             | medium         | low    | 7      | GoDaddy Online Services Cayman Islands Ltd. |
-| berried.net       | available | $12.48     | $18.58        | low            | low    | 7      | namecheap                                   |
+| ribald.net        | available | $12.48     | $18.58        | low            | low    | 6      | namecheap                                   |
 | dad.net           | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC                            |
 | wealthy.net       | premium   | $42,642    | —             | high           | low    | 7      | GoDaddy.com, LLC                            |
-| jainist.net       | available | $12.48     | $18.58        | low            | low    | 7      | namecheap                                   |
+| berried.net       | available | $12.48     | $18.58        | low            | low    | 7      | namecheap                                   |
 | fem.net           | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC                            |
 | eastward.net      | premium   | $1,644.09  | $23.99        | low            | low    | 8      | Annulet LLC                                 |
-| sauteed.net       | available | $11.98     | $18.58        | low            | low    | 7      | namecheap                                   |
-| gal.net           | resell    | —          | —             | medium         | low    | 3      | GoDaddy.com, LLC                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NET One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NET One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
