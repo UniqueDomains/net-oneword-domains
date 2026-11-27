@@ -4,9 +4,9 @@
 
 1,000 real .net one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [57,622 names on .net](https://unique.domains/tld/net); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [57,637 names on .net](https://unique.domains/tld/net); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-21,911 one-word .net names are free to register today. Cheapest first year $7.49 at Dynadot, renewal $12.52 there. 1,204 .net sales in the last 12 months, median $560.
+21,950 one-word .net names are free to register today. Cheapest first year $7.49 at Dynadot, renewal $12.52 there. 1,223 .net sales in the last 12 months, median $565.
 
 Live page: [unique.domains/tld/net](https://unique.domains/tld/net?utm_source=github&utm_medium=referral&utm_campaign=repo_net_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 13,391 names in the live list today.
+- The files hold 1,000 rows of the 13,471 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
